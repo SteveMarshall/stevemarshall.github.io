@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="utf-8">
+        {% if page.title %}
+        <title>{{ page.title }} &mdash; {{ site.name }}</title>
+        {% else %}
+        <title>{{ site.name }}</title>
+        {% endif %}
+        <link rel="stylesheet" href="/assets/main.css" charset="utf-8">
+    </head>
+    <body>
+      <header>
+        <a href="/">{{ site.name }}</a>
+      </header>
+      {{ content }}
+    </body>
+</html>

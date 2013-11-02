@@ -1,0 +1,8 @@
+name: nascentguruism
+pygments: true
+permalink: /journal/:title/
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- vendor
