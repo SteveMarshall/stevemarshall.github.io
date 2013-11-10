@@ -32,17 +32,17 @@ The two Fighting With Wire <acronym title="Compact Disc" class="caps">CD</acrony
 
 Considering I hadn't even heard of [Reuben][], the act that they were supporting when I saw them, until the day before the gig, I'm very impressed to have come across such a promising group. I was also suitably impressed by [The Mascara Story][], but their <acronym title="Compact Disc" class="caps">CD</acronym>s had sold out by the time I went to get one.
 
-###Jimmy Chamberlin Complex &ndash; 'Life Begins Again'###
+###Jimmy Chamberlin Complex - 'Life Begins Again'###
 ![](/images/posts/the-musical-baton/lifeBeginsAgain.jpg)The Jimmy Chamberlin Complex album is an altogether different beast: the debut album of Jimmy Chamberlin, the former Smashing Pumpkins and Zwan drummer, was something for which I had very high expectations. 
 
 As a huge Pumpkins and Zwan fan, I had many preconceived ideas about what a Jimmy Chamberlin album might be like. This album broke all of my preconceptions, and it broke them beautifully. Whilst the album has echoes of his contributions to the Pumpkins (and highlights his input on their style or, perhaps, the effect his time with them had on his style), it is very much distinct from their works. 
 
-A word of warning, however: this album is a little more prog-rock than that of the Pumpkins &ndash; it focuses heavily on Jimmy's work on the drums (obviously), and is very instrumental. If you need something to sing along to, this isn't necessarily the best choice (or give this a try and see if it changes your perceptions and tastes; either way is good). 
+A word of warning, however: this album is a little more prog-rock than that of the Pumpkins - it focuses heavily on Jimmy's work on the drums (obviously), and is very instrumental. If you need something to sing along to, this isn't necessarily the best choice (or give this a try and see if it changes your perceptions and tastes; either way is good). 
 
 All that said, I love this album.
 
 ##The song I'm playing right now##
-![](/images/posts/the-musical-baton/dummy.jpg)Portishead's 'Sour Times' has just started playing. I was introduced to Portishead a few months ago when a friend sent me their debut album, 'Dummy', as a gift for no apparent reason (not that I'm complaining &ndash; any <acronym title="Compact Disc" class="caps">CD</acronym> I don't have to buy is fine by me). 
+![](/images/posts/the-musical-baton/dummy.jpg)Portishead's 'Sour Times' has just started playing. I was introduced to Portishead a few months ago when a friend sent me their debut album, 'Dummy', as a gift for no apparent reason (not that I'm complaining - any <acronym title="Compact Disc" class="caps">CD</acronym> I don't have to buy is fine by me). 
 
 Whilst I didn't actually choose to play this song ([iTunes][] party shuffle, how I love thee!), it's a bloody good choice, all the same: haunting, melancholy, ethereal, and, at the same time, soothing and refreshing.
 
@@ -52,7 +52,7 @@ Writing this list is incredibly difficult for me. As with most people who are pa
 That said, here goes (in no particular order):
 
 ###'I Heard It Through The Grapevine' by Marvin Gaye, from 'Motown Heartbreakers'
-Whilst this may not, technically, be Marvin Gaye's best song, it was Motown's biggest selling record. More importantly for me, however, this song reminds me very much of my childhood &ndash; it epitomises my mum's (somewhat limited) taste in music, and makes me think of long journeys as a child to visit my grandparents.
+Whilst this may not, technically, be Marvin Gaye's best song, it was Motown's biggest selling record. More importantly for me, however, this song reminds me very much of my childhood - it epitomises my mum's (somewhat limited) taste in music, and makes me think of long journeys as a child to visit my grandparents.
 
 It's also of note that I have this song on three different albums: 'Motown Heartbreakers', 'Motown Chartbusters: Volume 3', and 'The Very Best Of Marvin Gaye'. I chose to mention 'Motown Heartbreakers' specifically because that is the album I would have listened to as a child: the others are far more recent acquisitions.
 

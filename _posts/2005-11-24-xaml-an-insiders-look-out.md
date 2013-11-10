@@ -12,7 +12,7 @@ Microsoft's <acronym title="eXtensible Application Markup Language">XAML</acrony
 
 This, then, automatically implies that its primary focus is applications or, more specifically, <em>client-side</em> applications. These could be the likes of Microsoft Word, or they could be something that runs on the client, but is hosted in a browser environment (read: Flash applications).
 
-The <span xml:lang="fr">raison d'&ecirc;tre</span> of <acronym title="eXtensible Application Markup Language">XAML</acronym>, rather than being to replace <acronym title="Hypertext Markup Language">HTML</acronym>, is (or rather, would appear to be) to allow <em>client-side</em> application developers to seperate their user interface 'code' from their functional code.  
+The <span xml:lang="fr">raison d'être</span> of <acronym title="eXtensible Application Markup Language">XAML</acronym>, rather than being to replace <acronym title="Hypertext Markup Language">HTML</acronym>, is (or rather, would appear to be) to allow <em>client-side</em> application developers to seperate their user interface 'code' from their functional code.  
 
 ##Why all the hubbub?##
 Web developers know that having a hulking great piece of <del>JavaScript</del><ins><acronym title="European Computer Manufacturers Association">ECMA</acronym>Script</ins> to build their entire user interface isn't good for code maintenance. Why should the same not be true for client-side applications? After all, you don't hear anyone crying <q>think of the children!</q> when people talk about [<acronym title="XML User Interface Language">XUL</acronym>][Wiki XUL] which is, ultimately, a different implementation of the same concept.
@@ -59,7 +59,7 @@ It <em>is</em> far from the panacea Microsoft are suggesting that it is, but it 
 [Amazon]: http://www.amazon.com/
 [CoverFlow]: http://www.steelskies.com/coverflow/HomePage.html
 [Sparkle]: http://www.microsoft.com/products/expression/en/interactive_designer/default.aspx
-[Expression tour]: http://www.microsoft.com/products/expression/en/demos.aspx "Microsoft Expression Tours &amp; Demos"
+[Expression tour]: http://www.microsoft.com/products/expression/en/demos.aspx "Microsoft Expression Tours & Demos"
 [FSC]: http://www.fujitsu-siemens.com/ "Fujitsu Siemens Computers, the company I work for"
 [Mono]: http://www.mono-project.com/
 [.Net shared source]: http://www.microsoft.com/downloads/details.aspx?FamilyId=3A1C93FA-7462-47D0-8E56-8DD34C6292F0&displaylang=en

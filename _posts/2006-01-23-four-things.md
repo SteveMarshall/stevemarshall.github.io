@@ -15,7 +15,7 @@ meta:
 Apparently, Ben's poked [another meme][Ben origin] in my direction. Without further ado, here are my lists:
 
 ##Four jobs I've had in my life##
-* Petrol&ndash;station assistant
+* Petrol-station assistant
 * Checkout supervisor
 * Technology analyst
 * Information systems developer
@@ -34,7 +34,7 @@ Apparently, Ben's poked [another meme][Ben origin] in my direction. Without furt
 
 ##Four places I have lived##
 * Bordon
-* Um&hellip; Yeah&hellip;
+* Um... Yeah...
 
 ##Four places I have been on holiday##
 * Orlando, Florida, USA
@@ -52,7 +52,7 @@ Apparently, Ben's poked [another meme][Ben origin] in my direction. Without furt
 * [Gmail][]
 * [Ctrl+Alt+Del][]
 * [Sinfest][]
-* This very site, in the hopes that the Magic Blog-Post F&aelig;ries will have added content in my <del>laziness</del><ins>absence</ins>
+* This very site, in the hopes that the Magic Blog-Post Færies will have added content in my <del>laziness</del><ins>absence</ins>
 
 ##Four places I would rather be right now##
 * Universal Studios: Islands of Adventure
@@ -62,7 +62,7 @@ Apparently, Ben's poked [another meme][Ben origin] in my direction. Without furt
 
 ##Four bloggers I am tagging##
 * [Jonathan Relf][Jon]
-* [Faruk Ate&#x015f;][Faruk]
+* [Faruk Ateş][Faruk]
 * [Jeremy Keith][Jeremy]
 * [Andy Budd][Andy]
 

@@ -42,8 +42,8 @@ I'm busy as hell, but I couldn't be happier.
 [SxSW07]: http://2007.sxsw.com/
 [@media]: http://www.vivabit.com/atmedia2007/ "@media 2007"
 [Outward Bound]: http://www.outwardbound.org.uk/Individual/Expeditions/WelshExpedition.htm
-[Happy New]: /journal/happy-new "&lsquot;Happy New&rsquot; on nascentguruism"
-[Camp]: /journal/camp "&lsquot;Camp&rsquot; on nascentguruism"
+[Happy New]: /journal/happy-new "‘Happy New’ on nascentguruism"
+[Camp]: /journal/camp "‘Camp’ on nascentguruism"
 [Norm]: http://cackhanded.net/ "Norm!, King of the Britons" |friend met co-worker|
 [Tim]: http://nefariousdesigns.co.uk/ "Tim Huegdon" |friend met co-worker|
 [Chris Kaminski]: http://setmajer.com/ "Chris Fucking Kaminski" |friend met co-worker|
