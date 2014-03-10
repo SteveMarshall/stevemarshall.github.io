@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Tired of this phase
-categories:
-- Ben Ward
-- motivation
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 [Ben][Ben Ward] has publicly [challenged himself][Ben Tired of this phase] to not waste his pre-work mornings by sleeping through multiple alarms.
 
@@ -18,6 +10,6 @@ So, to echo Ben's sentiment:
 
 > This week, I'm taking the "don't be so pathetic" method to not being shit at stuff.
 
-[Ben Ward]: http://ben-ward.co.uk/ "Ben Ward" |friend met co-worker|
+[Ben Ward]: http://ben-ward.co.uk/ "Ben Ward"
 [Ben Tired of this phase]: http://ben-ward.co.uk/journal/getting-up/ "'Tired of this phase' by Ben Ward"
 [Web Typography]: http://webtypography.net/

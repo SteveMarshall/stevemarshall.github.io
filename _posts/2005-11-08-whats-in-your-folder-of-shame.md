@@ -1,17 +1,6 @@
 ---
 layout: post
 title: What's in your folder of shame?
-categories:
-- Ben Ward
-- meme
-- nascentguruism
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Ben-Ward";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"meme";}i:2;O:8:"stdClass":1:{s:3:"tag";s:14:"nascentguruism";}}
-  _utw_tags_: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Ben-Ward";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"meme";}i:2;O:8:"stdClass":1:{s:3:"tag";s:14:"nascentguruism";}}
 ---
 I just noticed [<cite>Jeff Veen</cite>'s post about his <q>folder of shame</q>][jeff folder of shame] (via [Ben][ben folder of shame], surprise, surprise) and, much as I'm still very new to this here blogging malarky, I too have a folder of shame. Currently, it contains:
 

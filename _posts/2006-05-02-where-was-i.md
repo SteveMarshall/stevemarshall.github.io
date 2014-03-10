@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Where was I?
-categories:
-- Ben Ward
-- Elly Thompson
-- meme
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _utw_tags_0: a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Ben-Ward";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"Elly-Thompson";}i:2;O:8:"stdClass":1:{s:3:"tag";s:4:"meme";}}
 ---
 Apparently, [Elly tagged me][Elly source] with this 'where was I?' meme, so I suppose I ought to follow it up:
 

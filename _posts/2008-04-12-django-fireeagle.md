@@ -1,17 +1,6 @@
 ---
 layout: post
 title: django_fireeagle
-categories:
-- api
-- django
-- fire eagle
-- location
-- python
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 Just a brief note to mention that I uploaded [my Django Fire Eagle authentication wrapper][django_fireeagle] to [Google Code][].
 

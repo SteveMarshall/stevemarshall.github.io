@@ -1,27 +1,6 @@
 ---
 layout: post
 title: Search, and ye shall fail
-categories:
-- Alex Lee
-- Ann McMeekin
-- css
-- development
-- graceful degredation
-- HTML
-- JavaScript
-- Mark Norman Francis
-- Mike Davies
-- Norm!
-- progressive enhancement
-- Tim Huegdon
-- web
-- Yahoo!
-- Yahoo! TV
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 There's an accepted solution for channelled searching: offer a textbox input and a submit button, supported by a series of links to each channel of the search. The links will typically have JavaScript layered onto them (in theory, at least) to rewrite the form's target, so that the user may refine their search before submitting it. This behaviour can be seen on [Yahoo! <abbr title="United States" class="caps">US</abbr>][Y!US], [Yahoo! <abbr title="United Kingdom" class="caps">UK</abbr> and Ireland][Y!UK], [<abbr title="Microsoft Network" class="caps">MSN</abbr>][MSN], and yes, even [Google][].
 
@@ -86,9 +65,9 @@ I can by no means take full responsibility for the successful implementation of 
 [Y!TV IT]:http://it.tv.yahoo.com/ "YahoO! Italia TV"
 [Y!TV ES]:http://es.tv.yahoo.com/ "Yahoo! España TV"
 
-[Norm!]:       http://cackhanded.net/ "Mark Norman Francis's Cackhanded.net" |friend met co-worker|
-[Mike Davies]: http://www.isolani.co.uk/ "Mike Davies's isolani" |friend met co-worker|
-[Alex Lee]:    http://www.csensedesign.co.uk/ "Alex Lee: in the arms of strangers" |friend met co-worker|
-[Tim Huegdon]: http://nefariousdesigns.co.uk/ "Tim Huegdon's Nefarious Designs" |friend met co-worker|
-[Ann McMeekin]:http://www.pixeldiva.co.uk/ "Ann McMeekin: pixeldiva" |friend met co-worker|
+[Norm!]:       http://cackhanded.net/ "Mark Norman Francis's Cackhanded.net"
+[Mike Davies]: http://www.isolani.co.uk/ "Mike Davies's isolani"
+[Alex Lee]:    http://www.csensedesign.co.uk/ "Alex Lee: in the arms of strangers"
+[Tim Huegdon]: http://nefariousdesigns.co.uk/ "Tim Huegdon's Nefarious Designs"
+[Ann McMeekin]:http://www.pixeldiva.co.uk/ "Ann McMeekin: pixeldiva"
 [RNIB]:        http://www.rnib.org.uk/

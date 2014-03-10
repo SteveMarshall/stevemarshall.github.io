@@ -1,20 +1,6 @@
 ---
 layout: post
 title: HTTPSConnection
-categories:
-- error
-- fire eagle
-- http
-- https
-- openssl
-- python
-- ssl
-- web
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 So apparently I now write Python.
 

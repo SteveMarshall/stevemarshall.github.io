@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Four Things
-categories:
-- Ben Ward
-- meme
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _utw_tags_0: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Ben-Ward";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"meme";}}
-  _utw_tags_: a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Ben-Ward";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"meme";}}
 ---
 Apparently, Ben's poked [another meme][Ben origin] in my direction. Without further ado, here are my lists:
 

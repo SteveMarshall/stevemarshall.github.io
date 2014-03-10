@@ -1,21 +1,6 @@
 ---
 layout: post
 title: Perfection
-categories:
-- behaviour
-- css
-- design
-- HTML
-- JavaScript
-- markup
-- progressive enhancement
-- style
-- web
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 

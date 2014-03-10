@@ -15,11 +15,6 @@ categories:
 - SXSW
 - Tim Huegdon
 - travel
-tags: []
-status: publish
-type: post
-published: true
-meta: {}
 ---
 Where did the last six months go?
 
@@ -44,6 +39,6 @@ I'm busy as hell, but I couldn't be happier.
 [Outward Bound]: http://www.outwardbound.org.uk/Individual/Expeditions/WelshExpedition.htm
 [Happy New]: /journal/happy-new "‘Happy New’ on nascentguruism"
 [Camp]: /journal/camp "‘Camp’ on nascentguruism"
-[Norm]: http://cackhanded.net/ "Norm!, King of the Britons" |friend met co-worker|
-[Tim]: http://nefariousdesigns.co.uk/ "Tim Huegdon" |friend met co-worker|
-[Chris Kaminski]: http://setmajer.com/ "Chris Fucking Kaminski" |friend met co-worker|
+[Norm]: http://cackhanded.net/ "Norm!, King of the Britons"
+[Tim]: http://nefariousdesigns.co.uk/ "Tim Huegdon"
+[Chris Kaminski]: http://setmajer.com/ "Chris Fucking Kaminski"

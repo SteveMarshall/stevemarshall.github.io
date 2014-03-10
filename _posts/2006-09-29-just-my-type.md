@@ -1,20 +1,6 @@
 ---
 layout: post
 title: Just my type
-categories:
-- css
-- Rich Rutter
-- typography
-- web
-- web typography
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _utw_tags_0: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"css";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Rich-Rutter";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"typography";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"web";}i:4;O:8:"stdClass":1:{s:3:"tag";s:14:"web-typography";}}
-  _utw_tags_: a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"css";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Rich-Rutter";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"typography";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"web";}i:4;O:8:"stdClass":1:{s:3:"tag";s:14:"web-typography";}}
-  _edit_last: '7'
 ---
 Last December, [Rich Rutter][] announced [The Elements of Typographic Style Applied to the Web][Web Typography] ([Web Typography][], for short), a site that, for me, couldn't have been more timely: I was just finishing reading the last chapters of Robert Bringhurst's master-work, [The Elements of Typographic Style][Elements], the site's inspiration.
 

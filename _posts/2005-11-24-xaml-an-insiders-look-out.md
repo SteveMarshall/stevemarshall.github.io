@@ -1,7 +1,8 @@
 ---
 layout: post
-title: ! 'XAML: An insider's look out'
+title: "XAML: An insider's look out"
 ---
+
 [Zach][zach home] recently [posted his thoughts][zach xaml post] on 
 Microsoft's <acronym title="eXtensible Application Markup Language">XAML</acronym>. As my main development environment is Microsoft's .Net Framework, I've had a chance to have a more in-depth look at what <acronym title="eXtensible Application Markup Language">XAML</acronym> is and does, and feel that I should clear some points up.
 
@@ -39,7 +40,7 @@ Zach also laments the lack of semantics within <acronym title="eXtensible Applic
 This is one point I'd tend to agree with Zach on and, in fact, take one step further: if Microsoft <em>really</em> want to seperate things, allow seperation of structure from presentation, too. As I noted earlier, I've a strong feeling that this is already possible, to some degree but, if it is, it's almost certainly not enforced in any way (like, say, a completely different markup tailored for each, with some form of referencing).
 
 ###Platform specificity###
->Every year more people are switching to a Mac for various reasons(I'm not going to get into a debate here), what about them? Will Mac retaliate and do their own version thus leaving Windows users in the dark on some of the web pages. Will their [sic] be a port? Will it get taken back by Microsoft in the hope to fish some Mac users over?
+>Every year more people are switching to a Mac for various reasons(I'm not going to get into a debate here), what about them? Will Mac retaliate and do their own version thus leaving Windows users in the dark on some of the web pages. Will their \[sic\] be a port? Will it get taken back by Microsoft in the hope to fish some Mac users over?
 
 Looking at the direction Microsoft appear to be taking with their [Sparkle Interactive Designer][Sparkle] (as a tool to create rich applications on Windows and the web), you can almost taste the 'we want a piece of Flash' sentiment. Add to that the fact that Microsoft explicitly state that the output from Sparkle will work cross platform and device (in their [Expression family tour][Expression tour]). I wouldn't be in the least surprised if we see:
 
