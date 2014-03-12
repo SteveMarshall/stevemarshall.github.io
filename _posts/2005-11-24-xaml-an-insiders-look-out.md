@@ -9,7 +9,7 @@ Microsoft's <acronym title="eXtensible Application Markup Language">XAML</acrony
 **Disclaimer**: I have no knowledge of Microsoft's true plans for <acronym title="eXtensible Application Markup Language">XAML</acronym>. These are simply <em>my observations</em> based on what I've read and seen on the Internet, and cursory fiddlings with <acronym title="eXtensible Application Markup Language">XAML</acronym> as part of the [WinFX pre-release <acronym title="Software Development Kit">SDK</acronym>][WinFX SDK]
 
 ##What is this <acronym title="eXtensible Application Markup Language">XAML</acronym> you speak of?##
-.<acronym title="eXtensible Application Markup Language">XAML</acronym> is Microsoft's new <em>application</em> markup language (as noted in the name 'eXtensible Application Markup Language'). 
+<acronym title="eXtensible Application Markup Language">XAML</acronym> is Microsoft's new <em>application</em> markup language (as noted in the name 'eXtensible Application Markup Language'). 
 
 This, then, automatically implies that its primary focus is applications or, more specifically, <em>client-side</em> applications. These could be the likes of Microsoft Word, or they could be something that runs on the client, but is hosted in a browser environment (read: Flash applications).
 

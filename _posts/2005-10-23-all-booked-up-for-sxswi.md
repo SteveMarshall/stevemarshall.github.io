@@ -15,7 +15,7 @@ We've then got a day or so either end of <acronym>sxsw</acronym> to enjoy the si
 
 I can't wait.
 
-.<abbr title="Post Scriptum">PS</abbr>: Let me know in the comments if you're going too and we can meet up or something!
+<abbr title="Post Scriptum">PS</abbr>: Let me know in the comments if you're going too and we can meet up or something!
 
 Also, recommendations for where we can go for breakfasts would be good, too, as such things appear to be unheard of in the Austin Radisson...
 
