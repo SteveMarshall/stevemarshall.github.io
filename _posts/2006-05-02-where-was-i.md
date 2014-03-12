@@ -2,18 +2,37 @@
 layout: post
 title: Where was I?
 ---
-Apparently, [Elly tagged me][Elly source] with this 'where was I?' meme, so I suppose I ought to follow it up:
+Apparently, [Elly tagged me][Elly source] with this 'where was I?' meme,
+so I suppose I ought to follow it up:
 
 ##Where was I… one year ago?##
-This time last year, I was working with [Ben][] at [Fujitsu Siemens Computers][FSC]. As Ben [noted][where Ben was], we would have been working on a Microsoft-SharePoint-based document management system. Unfortunately for Ben and I (and our other team-mate, Steve Hayter, who appears to have fallen off the face of the earth), we had short deadlines and large workloads. 
+This time last year, I was working with [Ben][] at [Fujitsu Siemens
+Computers][FSC]. As Ben [noted][where Ben was], we would have been
+working on a Microsoft-SharePoint-based document management system.
+Unfortunately for Ben and I (and our other team-mate, Steve Hayter, who
+appears to have fallen off the face of the earth), we had short
+deadlines and large workloads.
 
-As such, we were working long hours on hard problems, pushing one another to our mental limits. I recall one week in particular that I worked something in the region of seventy hours in five days. As one could imagine, trying to push my friends to work this way was a double edged sword: I wanted the work to be done, but I also didn't want to have to make Ben and Steve do the stupid hours it would require.
+As such, we were working long hours on hard problems, pushing one
+another to our mental limits. I recall one week in particular that I
+worked something in the region of seventy hours in five days. As one
+could imagine, trying to push my friends to work this way was a double
+edged sword: I wanted the work to be done, but I also didn't want to
+have to make Ben and Steve do the stupid hours it would require.
 
 ##Where was I… five years ago? (or 'How to make Steve feel old')##
-It took me a while to work this one out, but it seems that five years ago I would have been coming to the end of my first year at [university][UniS]. I'd met a bunch of people I now feel privileged enough to call my closest friends, spent lots of time avoiding work, and generally doing what university students do (well, other than the getting dangerously drunk part).
+It took me a while to work this one out, but it seems that five years
+ago I would have been coming to the end of my first year at
+[university][UniS]. I'd met a bunch of people I now feel privileged
+enough to call my closest friends, spent lots of time avoiding work, and
+generally doing what university students do (well, other than the
+getting dangerously drunk part).
 
 ##Where was I… ten years ago? (or 'How to make Steve feel _really_ old')##
-I was coming up to the ripe old age of fourteen and would have been in year nine at [Mill Chase Community School][Mill Chase], four months from starting my GCSEs. I wasn't big but, for my age, I might have been clever.
+I was coming up to the ripe old age of fourteen and would have been in
+year nine at [Mill Chase Community School][Mill Chase], four months from
+starting my GCSEs. I wasn't big but, for my age, I might have been
+clever.
 
 ##Who am I tagging?##
 * [Jon][]

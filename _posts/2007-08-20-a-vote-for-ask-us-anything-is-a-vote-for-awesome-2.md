@@ -2,7 +2,8 @@
 layout: post
 title: A vote for Ask Us Anything is a vote for awesome
 ---
-It would appear that the [SXSW08][] [panel picker][] is live. [James][], [Norm!][] and I are hoping to run an [Ask Us Anything][AUA] session.
+It would appear that the [SXSW08][] [panel picker][] is live. [James][],
+[Norm!][] and I are hoping to run an [Ask Us Anything][AUA] session.
 
 [Vote for it][Vote AUA], you know you want to!
 

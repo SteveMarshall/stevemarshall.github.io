@@ -2,7 +2,8 @@
 layout: post
 title: Four Things
 ---
-Apparently, Ben's poked [another meme][Ben origin] in my direction. Without further ado, here are my lists:
+Apparently, Ben's poked [another meme][Ben origin] in my direction.
+Without further ado, here are my lists:
 
 ##Four jobs I've had in my life##
 * Petrol-station assistant
@@ -42,12 +43,14 @@ Apparently, Ben's poked [another meme][Ben origin] in my direction. Without furt
 * [Gmail][]
 * [Ctrl+Alt+Del][]
 * [Sinfest][]
-* This very site, in the hopes that the Magic Blog-Post Færies will have added content in my <del>laziness</del><ins>absence</ins>
+* This very site, in the hopes that the Magic Blog-Post Færies will
+  have added content in my <del>laziness</del><ins>absence</ins>
 
 ##Four places I would rather be right now##
 * Universal Studios: Islands of Adventure
 * Paris
-* Two feet to my right and three feet back, playing on my Xbox 360 whilst sat on my bed.
+* Two feet to my right and three feet back, playing on my Xbox 360
+  whilst sat on my bed.
 * With The Girlfriend
 
 ##Four bloggers I am tagging##
