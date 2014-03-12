@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1">
         {% if page.title %}
-        <title>{{ page.title }} &mdash; {{ site.name }}</title>
+        <title>{{ page.title | strip_html }} &mdash; {{ site.name }}</title>
         {% else %}
         <title>{{ site.name }}</title>
         {% endif %}
