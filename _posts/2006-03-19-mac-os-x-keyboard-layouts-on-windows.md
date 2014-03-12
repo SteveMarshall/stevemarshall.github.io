@@ -12,7 +12,8 @@ further into the problem.
 [Ben]: http://ben-ward.co.uk/
 [Ben typography]: http://ben-ward.co.uk/journal/macosx_typography_on_windows/ "Ben Ward's post on Mac OS X Typography in Windows"
 
-##Microsoft Keyboard Layout Creator##
+## Microsoft Keyboard Layout Creator
+
 The [Microsoft Keyboard Layout Creator][msklc] seems the most obvious
 option to start with: it allows re-mapping of all of the standard keys
 on a keyboard (all the way across to the return key), along with the use
@@ -53,7 +54,8 @@ other keyboard layouts in the 'Text Service and Input Languages' (the
 one where you added the new layout), making the new Mac OS X style
 layout your default (and hiding the language bar).
 
-##Accent chords##
+## Accent chords
+
 ![](/images/posts/mac-os-x-keyboard-layouts-on-windows/ntilde.png)The
 one thing that this doesn't cover, though, is the neat little tricks you
 can do in Mac OS X to create characters like ñ: hold `Opt` and press `n`
@@ -84,7 +86,8 @@ and select 'Edit This Script'. Copy and paste the contents of my script
 into this script (either overwrite or append it), save, and select
 'Reload This Script' from the menu of AutoHotKey's system tray icon.
 
-##That's all, folks!##
+## That's all, folks!
+
 By this point, you should have Mac OS X style text input on your humble
 Windows computer. The only thing that's missing now is switching the
 modifier keys so that  they're all laid out like the Mac but, thus far,

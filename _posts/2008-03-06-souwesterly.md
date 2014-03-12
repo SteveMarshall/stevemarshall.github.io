@@ -10,7 +10,7 @@ Miracles, apparently, will never cease.
 For the third year running, now, I'm on my way to Austin, Texas for
 [SXSW][SXSW 08].
 
-##Past
+## Past
 
 The first year ([2006][SXSW 06]), travelling with [Fatty][] (whom I had
 met but once before), was an incredible experience. I got to make lots
@@ -28,7 +28,7 @@ Socially, for me, it was bigger and better than my first year: I went to
 more parties, spent time with more people, and generally made more
 friends than in 2006. _It was good_.
 
-##Present
+## Present
 
 I fully expect this year to continue that trend given that, at the
 airport this morning, Ben and I (alas, no Fatty this year) bumped into
@@ -44,7 +44,7 @@ Granted, this was aided in no small part by the magic of [Twitter][]
 scene), but there was also a certain amount of serendipity thrown in for
 good measure, too.
 
-##Near-Future
+## Near-Future
 
 Compared to the last two years, my aims have ever-so-slightly changed,
 too. Rather than, as last year, placing the focus on attending sessions

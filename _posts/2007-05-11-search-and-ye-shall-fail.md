@@ -13,7 +13,7 @@ can be seen on [Yahoo! US][Y!US], [Yahoo! UK and Ireland][Y!UK],
 It _must_ be the best solution, mustn't it, if all these sites use
 similar techniques?
 
-##The objective of my affection
+## The objective of my affection
 
 If we step back for a moment, to examine the user's needs, we can see
 two objectives for the average searcher: **find something** and
@@ -40,7 +40,7 @@ should be -- and, typically, are -- de-emphasised where possible, but be
 present -- and have their presence known -- should the user require them
 (either to confirm their beliefs or to make a change).
 
-##Humbled
+## Humbled
 
 But the accepted solution only pays lip-service to this more complex
 interaction: for any user without JavaScript, the only acknowledged
@@ -78,7 +78,7 @@ That's what you can see in action on the new [Yahoo! UK and Ireland
 TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE],
 [Italy][Y!TV IT], and [Spain][Y!TV ES]).
 
-##Implementation notes
+## Implementation notes
 
 As noted above, the main components of the form are a list of
 radio-buttons, a textbox, and a submit button. Of particular note is the
@@ -87,7 +87,7 @@ radio-button labels relative to the form's `<legend>`. Further,
 implementing the search this way requires that the server-side script be
 able to handle the new field being passed its way appropriately.
 
-###Scripted style
+### Scripted style
 
 For all users, the core functionality of the radio-buttons is available,
 with these styled as an inline list for users with CSS enabled. The
@@ -99,7 +99,7 @@ place on focus, mark you, and not click: click events fire on the
 _originating_ control which, when navigating with the keyboard, will
 mean the _previously selected_ radio-button.
 
-###A `<legend>` in its own life-time
+### A `<legend>` in its own life-time
 
 It was brought to my attention that a form's `<legend>` will, by
 default, be announced before each and every form field by screen
@@ -127,7 +127,7 @@ and Ireland TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV
 DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]). [Links added at Mike's
 suggestion]</ins>
 
-##Thanks
+## Thanks
 
 I can by no means take full responsibility for the successful
 implementation of this concept, though: I'd particularly like to thank

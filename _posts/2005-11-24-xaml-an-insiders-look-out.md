@@ -12,7 +12,8 @@ These are simply _my observations_ based on what I've read and seen on
 the Internet, and cursory fiddlings with XAML as part of the [WinFX
 pre-release SDK][WinFX SDK]
 
-##What is this XAML you speak of?##
+## What is this XAML you speak of?
+
 XAML is Microsoft's new _application_ markup language (as noted in the
 name 'eXtensible Application Markup Language').
 
@@ -27,7 +28,8 @@ rather, would appear to be) to allow _client-side_ application
 developers to seperate their user interface 'code' from their functional
 code.
 
-##Why all the hubbub?##
+## Why all the hubbub?
+
 Web developers know that having a hulking great piece of
 <del>JavaScript</del><ins>ECMAScript</ins> to build their entire user
 interface isn't good for code maintenance. Why should the same not be
@@ -52,12 +54,14 @@ Windows) and a (relatively) small, vocal developer-base.
 The point, however, is that XUL and XAML have very similar goals in
 mind: seperation of interface structure and presentation from 'logic'.
 
-##Implementation##
+## Implementation
+
 As a very strong advocate of semantic, accessible web development, the
 implementation details of XAML grate against my nerves slightly, but not
 as much as you might think.
 
-###Usability###
+### Usability
+
 > Look at the CD Catalogue, that's less usable friendly than what
 > Amazon is. That makes me wonder if the web is turning too looks
 > specific. _Soon the content will be forgotten and it'll only be about
@@ -72,7 +76,8 @@ that this is a tech demo we're talking about, _not a final product_.
 Further, I would reiterate the point that XAML is for _applications_,
 not documents.
 
-###Semantics###
+### Semantics
+
 Zach also laments the lack of semantics within XAML, referencing setting
 an attribute value (`Value="verticalgradient LimeGreen Green"`), rather
 than some seperate, more semantic notation (he seperates the three
@@ -86,7 +91,8 @@ it is, it's almost certainly not enforced in any way (like, say, a
 completely different markup tailored for each, with some form of
 referencing).
 
-###Platform specificity###
+### Platform specificity
+
 > Every year more people are switching to a Mac for various reasons(I'm
 > not going to get into a debate here), what about them? Will Mac
 > retaliate and do their own version thus leaving Windows users in the
@@ -110,7 +116,8 @@ wouldn't be in the least surprised if we see:
   initiative][.Net shared source], a fully-fledged, Microsoft-built
   .Net runtime for the Mac and *nix, or something in between.
 
-##Final thoughts##
+## Final thoughts
+
 This is something I've actually been mulling over for quite a while and,
 much as I don't like the approach Microsoft are taking in terms of the
 actual markup, I can see XAML making my life (and the lives of those I

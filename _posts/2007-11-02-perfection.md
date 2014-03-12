@@ -10,7 +10,7 @@ title: Perfection
 This sentiment is just as true for markup, style, and behaviour on the
 web. The trick, though, is to find the optimal balance between the four.
 
-##Markup
+## Markup
 
 When building a page, one should assume nothing: mark it up in the most
 minimal, sparse way possible whilst still maintaining a logical
@@ -49,7 +49,7 @@ provide in raw HTML, you're doing it wrong.
 This doesn't mean the interaction has to be as rich as it might be, but
 it should be usable.
 
-##Style
+## Style
 
 As with the markup, styling should be approached by using the most
 simple approaches possible to achieve the desired look.
@@ -61,7 +61,7 @@ Avoid adding extra markup at all costs. If it seems that extra markup is
 necessary to aid styling, consider that the approach being used to
 acheive the style is the wrong one.
 
-##Behaviour
+## Behaviour
 
 Finally, enhance the behaviour as necessary. As with styling, consider
 that the desire to add to the DOM (either before or during the life of a

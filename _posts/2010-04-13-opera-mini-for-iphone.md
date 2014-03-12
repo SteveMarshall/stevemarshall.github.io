@@ -21,10 +21,9 @@ detracts from the pages you're trying to view, and it's not fast enough
 (its main selling point) to justify using it over Safari (particularly
 given the myriad interface oddities).
 
-Gestures
---------
+## Gestures
 
-### Scrolling 
+### Scrolling
 
 Let's start with the most basic interaction we have on iPhone:
 scrolling. Scrolling on iPhone is *fun*. iPhone uses inertial
@@ -54,7 +53,7 @@ the page across hits that boundary and stops or, more likely, scrolls a
 little further vertically. I suspect these boundaries are what cause the
 aforementioned changes in direction, come to think of it.
 
-###Zooming
+### Zooming
 
 ![](http://nascentguruism.com/wp-content/uploads/2010/04/zoom-e1271197835389.jpg)So
 what about the other most common gesture in Safari? Zooming in Opera is
@@ -89,7 +88,7 @@ Also: since when is zooming a browsing operation? If I'm zoomed in, why
 does pressing 'Back' zoom me out? Why can't I just navigate back to the
 page prior to the current page?
 
-###Text selection
+### Text selection
 
 Remember the days when iPhone didn't have copy and paste (or text
 selection), and how Apple's solution seemed to fit into the OS so
@@ -119,8 +118,7 @@ selection impossible. Made a mistake in your selection? You have to
 deselect (by clicking away from the popover offering to copy, search,
 etc.) and start again.
 
-Interface & rendering
----------
+## Interface & rendering
 
 Opera Mini really seems to have an inferiority complex.
 
@@ -160,8 +158,7 @@ small snapshots  of your tabs stacked on top of one another, with the
 active tab frontmost. It's not worlds ahead of Safari's implementation,
 granted, but it's a nice differentiator.
 
-Speed, privacy, and JavaScript
-------------------------------
+## Speed, privacy, and JavaScript
 
 I mentioned at the outset that Opera Mini isn't fast enough to justify
 using it over Safari. That's not to say it's not faster than Safari in
