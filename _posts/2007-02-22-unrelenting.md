@@ -1,20 +1,6 @@
 ---
 layout: post
 title: Unrelenting
-categories:
-- ! '@media'
-- barcamp
-- Chris Kaminski
-- conference
-- d.Construct
-- dConstruct
-- Mark Norman Francis
-- music
-- Norm!
-- Reading Festival
-- SXSW
-- Tim Huegdon
-- travel
 ---
 Where did the last six months go?
 
