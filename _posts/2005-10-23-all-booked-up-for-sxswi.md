@@ -3,7 +3,7 @@ layout: post
 title: All booked up for SXSWi
 ---
 [![Radisson Hotel, Austin, Texas][Radisson image]][Radisson image large]
-So that's it - [Fatty][] and I are all booked up for our sojourn to the veritable geek-fest that is [<acronym title="South by SouthWest">sxsw</acronym> interactive][SXSWi] (which I am hereby christening 'suckswee').
+So that's it - [Fatty][] and I are all booked up for our sojourn to the veritable geek-fest that is [<acronym title="South by SouthWest">SXSW</acronym> interactive][SXSWi] (which I am hereby christening 'suckswee').
 
 We'll be be arriving in Austin at about 4<abbr title="post meridiem">pm</abbr> local time on the 8th of March 2006, having left Blighty (that's Britain for those of you that didn't know) at 9:30<abbr title="anti meridiem">am</abbr> on the same day.
 
@@ -11,7 +11,7 @@ We ended up getting a room together in the [Radisson][]; I know everyone says th
 
 I'm hoping it's the former.
 
-We've then got a day or so either end of <acronym>sxsw</acronym> to enjoy the sights and sounds around Austin or, better yet, to get more acquainted with our fellow sucksweers, and we leave at about 4<abbr title="post meridiem">pm</abbr> local time on the 16th.
+We've then got a day or so either end of <acronym>SXSW</acronym> to enjoy the sights and sounds around Austin or, better yet, to get more acquainted with our fellow sucksweers, and we leave at about 4<abbr title="post meridiem">pm</abbr> local time on the 16th.
 
 I can't wait.
 
