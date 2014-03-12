@@ -154,7 +154,7 @@ everything.
 All that said, there is one piece of Opera Mini's interface that *is*
 quite nice: the tabs. Where Safari shuffles you off to a full-screen tab
 switcher, Opera Mini slides a pane up from the bottom of the screen with
-small snapshots  of your tabs stacked on top of one another, with the
+small snapshots of your tabs stacked on top of one another, with the
 active tab frontmost. It's not worlds ahead of Safari's implementation,
 granted, but it's a nice differentiator.
 

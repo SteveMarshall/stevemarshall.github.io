@@ -107,7 +107,7 @@ readers. To make this as unobtrusive as possible, each radio-button's
 `<label>` is worded such that it makes the most possible sense when
 preceded by the legend text. In English, for example, the radio-buttons
 will be announced as 'Search… the web', 'Search… for images', and so
-forth (where 'Search' is the form's  `<legend>`).
+forth (where 'Search' is the form's `<legend>`).
 
 The radio-buttons' full text, though, would not make sense in a visual
 context: they should be presented as tabs titled 'Web', 'Images', and so

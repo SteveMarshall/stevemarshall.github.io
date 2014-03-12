@@ -90,7 +90,7 @@ into this script (either overwrite or append it), save, and select
 
 By this point, you should have Mac OS X style text input on your humble
 Windows computer. The only thing that's missing now is switching the
-modifier keys so that  they're all laid out like the Mac but, thus far,
+modifier keys so that they're all laid out like the Mac but, thus far,
 I've not found any program that successfully achieves that. I'll let you
 know when I do.
 
