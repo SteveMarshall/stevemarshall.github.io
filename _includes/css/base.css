@@ -5,7 +5,7 @@ body {
     color:                  #333;
     font:                   16px/24px
                             "Helvetica Neue", Helvetica, Arial, sans-serif;
-    padding:                48px 24px;
+    margin:                 53px 24px;
     max-width:              420px;
 }
 
@@ -17,6 +17,10 @@ a:hover,
 a:focus,
 a:active {
   text-decoration:          underline;
+}
+
+ul {
+    list-style:             circle;
 }
 
 sub,
