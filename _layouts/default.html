@@ -11,9 +11,20 @@
         <link rel="stylesheet" href="/assets/main.css" charset="utf-8">
     </head>
     <body>
-      <header>
-        <a href="/">{{ site.name }}</a>
-      </header>
       {{ content }}
+      <footer id="footer">
+        <p>
+          &mdash;<a href="http://twitter.com/SteveMarshall">@SteveMarshall</a>
+        </p>
+        <p>
+          &copy; {{ site.time | date: '%Y' }}
+          {% if '/index.html' == page.url %}
+          {{ site.name }},
+          {% else %}
+          <a href="/">{{ site.name }}</a>,
+          {% endif %}
+          all rights reserved.
+        </p>
+      </footer>
     </body>
 </html>
