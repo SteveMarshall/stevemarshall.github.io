@@ -14,7 +14,7 @@ A word of warning: the site is still very much a work in progress. I'm going to 
 
 Update: One of the first errors I'm going to try to crack is visible on the [about][] page for those of you using either Firefox up to 1.0.* or Safari - if the image isn't loaded quickly enough, the CSS-positioned corners don't end up in the right places on the page. Any suggestions are much appreciated.
 
-Also, if anyone uses Opera and has any idea how I can fix the fact that it doesn't correctly handle absolutely positioned elements with <code>width: auto</code> and <code>left</code> and <code>right</code> positions, then that would be nice.
+Also, if anyone uses Opera and has any idea how I can fix the fact that it doesn't correctly handle absolutely positioned elements with `width: auto` and `left` and `right` positions, then that would be nice.
 
 [Ben]: http://ben-ward.co.uk/
 [about]: /about/

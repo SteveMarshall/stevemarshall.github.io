@@ -6,7 +6,7 @@ Last December, [Rich Rutter][] announced [The Elements of Typographic Style Appl
 
 Just as the book itself was beautifully set (as one would expect), well written, entertaining, and generally a joy to behold, the same can be said of Web Typography. From the subtle use of Flash for the logotype to the carefully set table of contents, everything about the site reeks of typographic quality, its own distinct style echoing that of the original Elements. 
 
-The purpose of Web Typography, of course, was not to _supplant_ Elements as the definitive resource for typography - <q>the Typographers' Bible</q>, in the words of <cite>Herman Zapf</cite>  - but rather to _supplement_ it: to act as an unofficial companion for those working with type on the web.
+The purpose of Web Typography, of course, was not to _supplant_ Elements as the definitive resource for typography - "the Typographers' Bible", in the words of <cite>Herman Zapf</cite>  - but rather to _supplement_ it: to act as an unofficial companion for those working with type on the web.
 
 It is with much excitement, then, that I'm announcing what will, hopefully, mark the start of a trend: my first contributions to Web Typography, [§2.3.1: Set opening paragraphs flush left][WT §2.3.1] and [§2.3.2: In continuous text, mark all paragraphs after the first with an indent of at least one en][WT §2.3.2], have been published.
 

@@ -30,7 +30,7 @@ Given a little semantic markup and CSS (with a smattering of JavaScript to add e
 
 So I did.
 
-That's what you can see in action on the new [Yahoo! <abrr title="United Kingdom" class="caps">UK</abrr> and Ireland TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]).
+That's what you can see in action on the new [Yahoo! UK and Ireland TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]).
 
 ##Implementation notes
 

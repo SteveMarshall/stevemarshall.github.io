@@ -2,7 +2,7 @@
 layout: post
 title: What's in your folder of shame?
 ---
-I just noticed [<cite>Jeff Veen</cite>'s post about his <q>folder of shame</q>][jeff folder of shame] (via [Ben][ben folder of shame], surprise, surprise) and, much as I'm still very new to this here blogging malarky, I too have a folder of shame. Currently, it contains:
+I just noticed [<cite>Jeff Veen</cite>'s post about his "folder of shame"][jeff folder of shame] (via [Ben][ben folder of shame], surprise, surprise) and, much as I'm still very new to this here blogging malarky, I too have a folder of shame. Currently, it contains:
 
 * Why I love my Macs
 * What I want to play with or fix on my site

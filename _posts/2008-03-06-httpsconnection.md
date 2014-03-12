@@ -10,7 +10,7 @@ Given that I'm relatively new to Python, it took a moment to realise I had simpl
 
 Without OpenSSL linked, trying to use `HTTPSConnection` (or, one would imagine, any SSL-related task) results in an error akin to `AttributeError: 'module' object has no attribute 'ssl'`.
 
-To rectify this is, actually, very simple: run <kbd>sudo port install py25-socket-ssl</kbd> in the Terminal (assuming you're using Python 2.5: other versions of Python will require different ports).
+To rectify this is, actually, very simple: run `sudo port install py25-socket-ssl` in the Terminal (assuming you're using Python 2.5: other versions of Python will require different ports).
 
 
 [Fire Eagle Python binding]: http://fireeagle.com/developer/

@@ -2,11 +2,6 @@
 layout: post
 title: Carson Workshops Summit
 ---
-<div class="sidenote">
-	<p>
-		My d.Construct write-up is coming, honestly: it's taking a bit longer than I expected, but it is on its way.
-	</p>
-</div>
 
 Another month, another conference booking. This time, [<del>The Boy Wonder</del><ins>Ben</ins>][Ben Ward] and I will be attending the [Carson Workshops Summit][] on the 8th of February, 2006, with [<del>The Joker</del><ins>Fatty</ins>][Fatty Thompson] in tow.
 

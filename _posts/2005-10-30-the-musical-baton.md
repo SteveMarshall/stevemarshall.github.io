@@ -12,16 +12,12 @@ As I'm so late to the party, I've decided to take a little more time and care ov
 Anyway, here's the meat:
 
 ##Total volume of music on my computer##
-<p class="sidenote">
-  I'm currently trying to enable <a href="http://www.cis.upenn.edu/~bcpierce/unison/">Unison</a> synchronisation between my two Macs, so that I don't have to worry about manually synching my music. When I get it working, expect a post on the subject. Until that time, don't.
-</p>
-
 I currently have 38.95GB of music on my PowerMac, which I manually copy to my iBook whenever the whim takes me. If iTunes is to be believed, that's about 20.2 days' worth of non-stop <del>noise</del><ins>music</ins>. That's mostly made up of 192kbps-encoded mp3s, with the occasional non-conformist track from [other][Brad Sucks] [sources][MC Frontalot].
 
 That's enough that I can't quite fit it all on my 40GB fourth-generation iPod (black and white screen with click-wheel); this is a source of much discomfort.
 
 ##The last CD(s) I bought##
-I've actually not bought any music within the last fortnight or so, which is <em>incredibly</em> uncommon for me. 
+I've actually not bought any music within the last fortnight or so, which is _incredibly_ uncommon for me. 
 
 The last CDs I bought, though, were [Fighting With Wire][]'s 'Cut The Transmission' EP and their 'Machine Parts' single, when I saw them live at the [Wedgewood Rooms][] on the 10th of October.
 
@@ -56,11 +52,11 @@ Whilst this may not, technically, be Marvin Gaye's best song, it was Motown's bi
 
 It's also of note that I have this song on three different albums: 'Motown Heartbreakers', 'Motown Chartbusters: Volume 3', and 'The Very Best Of Marvin Gaye'. I chose to mention 'Motown Heartbreakers' specifically because that is the album I would have listened to as a child: the others are far more recent acquisitions.
 
-###'Show Me How To Live' by <a href="http://www.audioslave.com/">Audioslave</a>, from 'Audioslave'
+###'Show Me How To Live' by [Audioslave](http://www.audioslave.com/), from 'Audioslave'
 ![](/images/posts/the-musical-baton/audioslave.jpg)I simply *cannot* get enough of this song (or, in fact, the rest of the album). I spent about 15 minutes just trying to decide which track from the album to list. Audioslave's music is hard-as-nails, but intricately crafted and with awesome vocals from Chris Cornell. I listen to this album at least once a week and, without fail, I end up <del>screaming</del><ins>singing</ins> along.
 
-###'Whenever, Wherever, Whatever' by <a href="http://www.musze.com/">Maxwell</a>, from 'MTV Unplugged'
-![](/images/posts/the-musical-baton/mtvUnplugged.jpg)Maxwell is one of those artists that I think doesn't get anywhere near the respect he deserves. He has one of the richest, most satisfying voices I've ever heard. His songs are romantic without being trite, intellectual without sacrificing accessibility, and, above all, <em>just damn good</em>. Not only does this song define the way I feel about the people I care about, it exudes an intimacy and tenderness rarely found in other songs (especially so in the live version I'm referring to, but the same holds for the original studio version).
+###'Whenever, Wherever, Whatever' by [Maxwell](http://www.musze.com/), from 'MTV Unplugged'
+![](/images/posts/the-musical-baton/mtvUnplugged.jpg)Maxwell is one of those artists that I think doesn't get anywhere near the respect he deserves. He has one of the richest, most satisfying voices I've ever heard. His songs are romantic without being trite, intellectual without sacrificing accessibility, and, above all, _just damn good_. Not only does this song define the way I feel about the people I care about, it exudes an intimacy and tenderness rarely found in other songs (especially so in the live version I'm referring to, but the same holds for the original studio version).
 
 ###'Baby Let's Rock!' by Zwan, from 'Mary Star Of The Sea'
 ![](/images/posts/the-musical-baton/maryStarOfTheSea.jpg)This is another track where I could substitute it for any other from the album. Beautifully crafted, sweet with just enough rockiness, the whole album rarely has time to finish before I'm playing it again.
@@ -74,10 +70,10 @@ Speaking of Pumpkins…
 
 *Fuck me, it's good*!
 
-That'll do just fine. When I got 'Earphoria', I already had most of the Pumpkins' back-catalogue, so my expectations were high. 'Earphoria' delivers, and then some, until you get to 'Silverfuck', whereupon you spend the next thirteen-and-a-half minutes thinking <q>holy shit, this is the most insane thing I've heard in years</q>. Or maybe that's just me.
+That'll do just fine. When I got 'Earphoria', I already had most of the Pumpkins' back-catalogue, so my expectations were high. 'Earphoria' delivers, and then some, until you get to 'Silverfuck', whereupon you spend the next thirteen-and-a-half minutes thinking "holy shit, this is the most insane thing I've heard in years". Or maybe that's just me.
 
 ###<ins>'Brighter Hell' by The Watchmen, from 'Silent Radar'</ins>
-![](/images/posts/the-musical-baton/silentRadar.jpg)Another beautiful, intricate, sensual song. The story goes that, to make their 'Silent Radar' album, The Watchmen spared no expense, to the point that they used a $10,000 vocal microphone! That may sound excessive but, if 'Brighter Hell' is anything to go by, it was more than worth it. (And yes, I realise that money doesn't equal talent, but money <em>plus</em> talent can often make wonderul things.)
+![](/images/posts/the-musical-baton/silentRadar.jpg)Another beautiful, intricate, sensual song. The story goes that, to make their 'Silent Radar' album, The Watchmen spared no expense, to the point that they used a $10,000 vocal microphone! That may sound excessive but, if 'Brighter Hell' is anything to go by, it was more than worth it. (And yes, I realise that money doesn't equal talent, but money _plus_ talent can often make wonderul things.)
 
 ###<ins>'No One's Gonna Hurt You' by James Iha, from 'Let It Come Down'</ins>
 ![](/images/posts/the-musical-baton/letItComeDown.jpg)Yet another soft one, again from a former Pumpkin. I'd explain why this one means a lot to me, but the person it's for knows who they are and why it does, so that's all that matters. Just trust me that it's a beautiful song, and, as with Jimmy Chamberlin, you can see Iha's influence on the Pumpkins, and how they influenced his work.
