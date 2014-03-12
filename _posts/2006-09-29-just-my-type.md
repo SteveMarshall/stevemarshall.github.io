@@ -15,9 +15,9 @@ the carefully set table of contents, everything about the site reeks of
 typographic quality, its own distinct style echoing that of the original
 Elements.
 
-The purpose of Web Typography, of course, was not to _supplant_ Elements
+The purpose of Web Typography, of course, was not to *supplant* Elements
 as the definitive resource for typography - "the Typographers' Bible",
-in the words of <cite>Herman Zapf</cite>  - but rather to _supplement_
+in the words of <cite>Herman Zapf</cite>  - but rather to *supplement*
 it: to act as an unofficial companion for those working with type on the
 web.
 

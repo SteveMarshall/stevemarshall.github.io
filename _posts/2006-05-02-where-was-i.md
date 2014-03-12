@@ -30,7 +30,7 @@ enough to call my closest friends, spent lots of time avoiding work, and
 generally doing what university students do (well, other than the
 getting dangerously drunk part).
 
-## Where was I… ten years ago? (or 'How to make Steve feel _really_ old')
+## Where was I… ten years ago? (or 'How to make Steve feel *really* old')
 
 I was coming up to the ripe old age of fourteen and would have been in
 year nine at [Mill Chase Community School][Mill Chase], four months from

@@ -8,23 +8,23 @@ Framework, I've had a chance to have a more in-depth look at what XAML
 is and does, and feel that I should clear some points up.
 
 **Disclaimer**: I have no knowledge of Microsoft's true plans for XAML.
-These are simply _my observations_ based on what I've read and seen on
+These are simply *my observations* based on what I've read and seen on
 the Internet, and cursory fiddlings with XAML as part of the [WinFX
 pre-release SDK][WinFX SDK]
 
 ## What is this XAML you speak of?
 
-XAML is Microsoft's new _application_ markup language (as noted in the
+XAML is Microsoft's new *application* markup language (as noted in the
 name 'eXtensible Application Markup Language').
 
 This, then, automatically implies that its primary focus is applications
-or, more specifically, _client-side_ applications. These could be the
+or, more specifically, *client-side* applications. These could be the
 likes of Microsoft Word, or they could be something that runs on the
 client, but is hosted in a browser environment (read: Flash
 applications).
 
 The raison d'être of XAML, rather than being to replace HTML, is (or
-rather, would appear to be) to allow _client-side_ application
+rather, would appear to be) to allow *client-side* application
 developers to seperate their user interface 'code' from their functional
 code.
 
@@ -38,7 +38,7 @@ crying "think of the children!" when people talk about [XUL][Wiki XUL]
 which is, ultimately, a different implementation of the same concept.
 
 Personally, I think most of the noise is because Microsoft is making
-(and, in fact, _has to_ make) noise about the benefits of XAML over the
+(and, in fact, *has to* make) noise about the benefits of XAML over the
 old-school way of doing things. Your average in-house developer, closed
 off from the outside world, that only uses computers for their day job
 will probably only care about what comes from [the hand of God][msdn].
@@ -46,7 +46,7 @@ Add to that the fact that Microsoft has to get the message out to what
 probably amounts to millions of developers, and they need to make a lot
 of noise.
 
-Compare this again to XUL: it's _not_ the default framework for the most
+Compare this again to XUL: it's *not* the default framework for the most
 used operating system in the world; it has a handful of 'big' adopters
 (who are, in terms of user base, significantly smaller than that of
 Windows) and a (relatively) small, vocal developer-base.
@@ -64,16 +64,16 @@ as much as you might think.
 
 > Look at the CD Catalogue, that's less usable friendly than what
 > Amazon is. That makes me wonder if the web is turning too looks
-> specific. _Soon the content will be forgotten and it'll only be about
-> looks_. With that, it looks as though its taking the focus of what the
+> specific. *Soon the content will be forgotten and it'll only be about
+> looks*. With that, it looks as though its taking the focus of what the
 > web's built for ('To house globally accessible documents').
 
 I'm not sure Zach's comparison of the CD Catalogue tech demo with
 [Amazon][] is a fair one; a better one would be to something like
 [CoverFlow][] with Amazon integration. It's also worth bearing in mind
-that this is a tech demo we're talking about, _not a final product_.
+that this is a tech demo we're talking about, *not a final product*.
 
-Further, I would reiterate the point that XAML is for _applications_,
+Further, I would reiterate the point that XAML is for *applications*,
 not documents.
 
 ### Semantics
@@ -84,7 +84,7 @@ than some seperate, more semantic notation (he seperates the three
 values into their own attributes).
 
 This is one point I'd tend to agree with Zach on and, in fact, take one
-step further: if Microsoft _really_ want to seperate things, allow
+step further: if Microsoft *really* want to seperate things, allow
 seperation of structure from presentation, too. As I noted earlier, I've
 a strong feeling that this is already possible, to some degree but, if
 it is, it's almost certainly not enforced in any way (like, say, a
@@ -124,8 +124,8 @@ actual markup, I can see XAML making my life (and the lives of those I
 work with) far, far easier when we have to manage future application
 interfaces.
 
-It _is_ far from the panacea Microsoft are suggesting that it is, but it
-is still _far_ superior to the current code-soup approach in most
+It *is* far from the panacea Microsoft are suggesting that it is, but it
+is still *far* superior to the current code-soup approach in most
 Windows applications.
 
 [zach home]: http://www.zachinglis.com/ "Zach Inglis"

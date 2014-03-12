@@ -10,17 +10,17 @@ the user may refine their search before submitting it. This behaviour
 can be seen on [Yahoo! US][Y!US], [Yahoo! UK and Ireland][Y!UK],
 [MSN][MSN], and yes, even [Google][].
 
-It _must_ be the best solution, mustn't it, if all these sites use
+It *must* be the best solution, mustn't it, if all these sites use
 similar techniques?
 
 ## The objective of my affection
 
 If we step back for a moment, to examine the user's needs, we can see
 two objectives for the average searcher: **find something** and
-[<ins>perhaps</ins>] make it _of this type_.
+[<ins>perhaps</ins>] make it *of this type*.
 
 The 'something' for which the user is searching is, in their mind, the
-foremost concern. _Everything else_ is secondary. When searching, a
+foremost concern. *Everything else* is secondary. When searching, a
 user's first instinct will almost always be to enter their search terms
 (and why should it be otherwise?). Everything about a search interface
 is geared toward this: the keyword input has the most visual weight on
@@ -34,7 +34,7 @@ The second objective, then, is the type of results that will satisfy the
 search. The introduction of this second objective is where user
 behaviour will begin to deviate: depending on their priorities and
 personal inclinations, users' execution of this may take place before,
-after, or even _during_ the steps to meet the primary objective. Unlike
+after, or even *during* the steps to meet the primary objective. Unlike
 the emphasis placed on the keyword input, the type of results to return
 should be -- and, typically, are -- de-emphasised where possible, but be
 present -- and have their presence known -- should the user require them
@@ -50,11 +50,11 @@ engine alters the links based on the latest query, directly after (and
 before they attempt to manipulate their search further).
 
 By using JavaScript to bludgeon links into selecting from a choice of
-mutually exclusive channels, the user experience of what _should_ be a
+mutually exclusive channels, the user experience of what *should* be a
 simple search form is broken for many users when they attempt to
 interact with it in a way that seems natural to them. To compound this
 issue further, the use of links means that screen reader users may
-_never_ be able to use this functionality, as links within the form will
+*never* be able to use this functionality, as links within the form will
 never be announced when they are entering their search terms.
 
 The problem is that whomever has implemented these solutions (or their
@@ -70,7 +70,7 @@ Given a little semantic markup and CSS (with a smattering of JavaScript
 to add extra styling hooks), it's entirely possible to style a group of
 radio-buttons in a more visually apt way to indicate that it is
 filtering the search input, whilst offering a far more interactive
-experience to _all_ users of the site, not just those with JavaScript.
+experience to *all* users of the site, not just those with JavaScript.
 
 So I did.
 
@@ -96,8 +96,8 @@ list, along with an extra `<span>` to allow styling of the labels in
 accordance with the design. When the radio-buttons receive focus the
 'selected' class is moved to the new selection. This activity takes
 place on focus, mark you, and not click: click events fire on the
-_originating_ control which, when navigating with the keyboard, will
-mean the _previously selected_ radio-button.
+*originating* control which, when navigating with the keyboard, will
+mean the *previously selected* radio-button.
 
 ### A `<legend>` in its own life-time
 

@@ -66,7 +66,7 @@ acheive the style is the wrong one.
 Finally, enhance the behaviour as necessary. As with styling, consider
 that the desire to add to the DOM (either before or during the life of a
 script) could be a sign that the solution is not the optimal one.
-Similarly, if styles must be added _before_ any interaction occurs,
+Similarly, if styles must be added *before* any interaction occurs,
 separate them using some class high in the DOM tree.
 
 If anything must be added, be they elements, `id`s, `class`es, or

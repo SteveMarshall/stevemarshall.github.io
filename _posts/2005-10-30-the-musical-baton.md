@@ -36,7 +36,7 @@ discomfort.
 ## The last CD(s) I bought
 
 I've actually not bought any music within the last fortnight or so,
-which is _incredibly_ uncommon for me.
+which is *incredibly* uncommon for me.
 
 The last CDs I bought, though, were [Fighting With Wire][]'s 'Cut The
 Transmission' EP and their 'Machine Parts' single, when I saw them live
@@ -135,7 +135,7 @@ a week and, without fail, I end up
 those artists that I think doesn't get anywhere near the respect he
 deserves. He has one of the richest, most satisfying voices I've ever
 heard. His songs are romantic without being trite, intellectual without
-sacrificing accessibility, and, above all, _just damn good_. Not only
+sacrificing accessibility, and, above all, *just damn good*. Not only
 does this song define the way I feel about the people I care about, it
 exudes an intimacy and tenderness rarely found in other songs
 (especially so in the live version I'm referring to, but the same holds
@@ -175,7 +175,7 @@ intricate, sensual song. The story goes that, to make their 'Silent
 Radar' album, The Watchmen spared no expense, to the point that they
 used a $10,000 vocal microphone! That may sound excessive but, if
 'Brighter Hell' is anything to go by, it was more than worth it. (And
-yes, I realise that money doesn't equal talent, but money _plus_ talent
+yes, I realise that money doesn't equal talent, but money *plus* talent
 can often make wonderul things.)
 
 ### <ins>'No One's Gonna Hurt You' by James Iha, from 'Let It Come Down'</ins>

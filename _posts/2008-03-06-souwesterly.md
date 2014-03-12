@@ -26,18 +26,18 @@ SXSW.
 
 Socially, for me, it was bigger and better than my first year: I went to
 more parties, spent time with more people, and generally made more
-friends than in 2006. _It was good_.
+friends than in 2006. *It was good*.
 
 ## Present
 
 I fully expect this year to continue that trend given that, at the
 airport this morning, Ben and I (alas, no Fatty this year) bumped into
-[Stuart Colville][] _before we had even checked in_, Paul Duncan over
+[Stuart Colville][] *before we had even checked in*, Paul Duncan over
 breakfast, [Cyril Doussin][] and Tristan Turpin (who, along with Stuart,
 are on the same flight as Ben and me) just after breakfast, and [Gareth
 Rushgrove][] in the departures lounge.
 
-All this, mark you, _before we had even left Gatwick Airport_.
+All this, mark you, *before we had even left Gatwick Airport*.
 
 Granted, this was aided in no small part by the magic of [Twitter][]
 (and generally being better acquainted with more people in the web
