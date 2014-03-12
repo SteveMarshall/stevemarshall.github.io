@@ -16,7 +16,7 @@ Apparently, Ben's poked [another meme][Ben origin] in my direction. Without furt
 * Star Wars Episode V: The Empire Strikes Back
 * High Fidelity
 
-##Four <acronym class="initialism" title="Television">TV</acronym> shows I love to watch##
+##Four TV shows I love to watch##
 * Family Guy
 * [QI][]
 * Numb3rs

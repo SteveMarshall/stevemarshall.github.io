@@ -16,21 +16,21 @@ Anyway, here's the meat:
   I'm currently trying to enable <a href="http://www.cis.upenn.edu/~bcpierce/unison/">Unison</a> synchronisation between my two Macs, so that I don't have to worry about manually synching my music. When I get it working, expect a post on the subject. Until that time, don't.
 </p>
 
-I currently have 38.95<acronym title="gigabytes" class="caps">GB</acronym> of music on my PowerMac, which I manually copy to my iBook whenever the whim takes me. If iTunes is to be believed, that's about 20.2 days' worth of non-stop <del>noise</del><ins>music</ins>. That's mostly made up of 192<acronym title="kilobits per second">kbps</acronym>-encoded mp3s, with the occasional non-conformist track from [other][Brad Sucks] [sources][MC Frontalot].
+I currently have 38.95GB of music on my PowerMac, which I manually copy to my iBook whenever the whim takes me. If iTunes is to be believed, that's about 20.2 days' worth of non-stop <del>noise</del><ins>music</ins>. That's mostly made up of 192kbps-encoded mp3s, with the occasional non-conformist track from [other][Brad Sucks] [sources][MC Frontalot].
 
-That's enough that I can't quite fit it all on my 40<acronym title="gigabytes" class="caps">GB</acronym> fourth-generation iPod (black and white screen with click-wheel); this is a source of much discomfort.
+That's enough that I can't quite fit it all on my 40GB fourth-generation iPod (black and white screen with click-wheel); this is a source of much discomfort.
 
-##The last <acronym title="Compact Disc" class="caps">CD</acronym>(s) I bought##
+##The last CD(s) I bought##
 I've actually not bought any music within the last fortnight or so, which is <em>incredibly</em> uncommon for me. 
 
-The last <acronym title="Compact Disc" class="caps">CD</acronym>s I bought, though, were [Fighting With Wire][]'s 'Cut The Transmission' <acronym title="Extended Play" class="caps">EP</acronym> and their 'Machine Parts' single, when I saw them live at the [Wedgewood Rooms][] on the 10th of October.
+The last CDs I bought, though, were [Fighting With Wire][]'s 'Cut The Transmission' EP and their 'Machine Parts' single, when I saw them live at the [Wedgewood Rooms][] on the 10th of October.
 
 As I was able to buy both of those for a handful of change, though, I feel compelled to include my next-most-recent full-price purchase: [Jimmy Chamberlin Complex][]'s 'Life Begins Again'.
 
 ###Fighting With Wire###
-The two Fighting With Wire <acronym title="Compact Disc" class="caps">CD</acronym>s comprise 6 tracks, which sound somewhat akin to a combination of Foo Fighters and another, more metal-y band I can't quite remember the name of. 
+The two Fighting With Wire CDs comprise 6 tracks, which sound somewhat akin to a combination of Foo Fighters and another, more metal-y band I can't quite remember the name of. 
 
-Considering I hadn't even heard of [Reuben][], the act that they were supporting when I saw them, until the day before the gig, I'm very impressed to have come across such a promising group. I was also suitably impressed by [The Mascara Story][], but their <acronym title="Compact Disc" class="caps">CD</acronym>s had sold out by the time I went to get one.
+Considering I hadn't even heard of [Reuben][], the act that they were supporting when I saw them, until the day before the gig, I'm very impressed to have come across such a promising group. I was also suitably impressed by [The Mascara Story][], but their CDs had sold out by the time I went to get one.
 
 ###Jimmy Chamberlin Complex - 'Life Begins Again'###
 ![](/images/posts/the-musical-baton/lifeBeginsAgain.jpg)The Jimmy Chamberlin Complex album is an altogether different beast: the debut album of Jimmy Chamberlin, the former Smashing Pumpkins and Zwan drummer, was something for which I had very high expectations. 
@@ -42,7 +42,7 @@ A word of warning, however: this album is a little more prog-rock than that of t
 All that said, I love this album.
 
 ##The song I'm playing right now##
-![](/images/posts/the-musical-baton/dummy.jpg)Portishead's 'Sour Times' has just started playing. I was introduced to Portishead a few months ago when a friend sent me their debut album, 'Dummy', as a gift for no apparent reason (not that I'm complaining - any <acronym title="Compact Disc" class="caps">CD</acronym> I don't have to buy is fine by me). 
+![](/images/posts/the-musical-baton/dummy.jpg)Portishead's 'Sour Times' has just started playing. I was introduced to Portishead a few months ago when a friend sent me their debut album, 'Dummy', as a gift for no apparent reason (not that I'm complaining - any CD I don't have to buy is fine by me). 
 
 Whilst I didn't actually choose to play this song ([iTunes][] party shuffle, how I love thee!), it's a bloody good choice, all the same: haunting, melancholy, ethereal, and, at the same time, soothing and refreshing.
 
@@ -59,7 +59,7 @@ It's also of note that I have this song on three different albums: 'Motown Heart
 ###'Show Me How To Live' by <a href="http://www.audioslave.com/">Audioslave</a>, from 'Audioslave'
 ![](/images/posts/the-musical-baton/audioslave.jpg)I simply *cannot* get enough of this song (or, in fact, the rest of the album). I spent about 15 minutes just trying to decide which track from the album to list. Audioslave's music is hard-as-nails, but intricately crafted and with awesome vocals from Chris Cornell. I listen to this album at least once a week and, without fail, I end up <del>screaming</del><ins>singing</ins> along.
 
-###'Whenever, Wherever, Whatever' by <a href="http://www.musze.com/">Maxwell</a>, from '<acronym title="Music Television" class="caps">MTV</acronym> Unplugged'
+###'Whenever, Wherever, Whatever' by <a href="http://www.musze.com/">Maxwell</a>, from 'MTV Unplugged'
 ![](/images/posts/the-musical-baton/mtvUnplugged.jpg)Maxwell is one of those artists that I think doesn't get anywhere near the respect he deserves. He has one of the richest, most satisfying voices I've ever heard. His songs are romantic without being trite, intellectual without sacrificing accessibility, and, above all, <em>just damn good</em>. Not only does this song define the way I feel about the people I care about, it exudes an intimacy and tenderness rarely found in other songs (especially so in the live version I'm referring to, but the same holds for the original studio version).
 
 ###'Baby Let's Rock!' by Zwan, from 'Mary Star Of The Sea'

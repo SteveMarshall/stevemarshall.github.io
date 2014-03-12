@@ -30,7 +30,7 @@ Why yes I did Billy, yes I did.
 
 With a combination of AutoHotKey and our Mac-esque keyboard layout, we can have almost identical input on Mac and Windows, save the need, on Windows, to use <kbd title="Alternate Graphic">AltGr</kbd> in lieu of the Mac's <kbd title="Option or Alternate">Opt</kbd>.
 
-Once again, because I've more time on my hands than is necessarily healthy, I've already made [an AutoHotKey script for most of the easier accent chords][ahk chords]. Notably absent are grave chords (due to what appears to be a bug in AutoHotKey's Unicode handling, I felt compelled to leave them commented out) and all those chords that create characters with no extended-<acronym title="American Standard Code for Information Interchange">ASCII</acronym> value.
+Once again, because I've more time on my hands than is necessarily healthy, I've already made [an AutoHotKey script for most of the easier accent chords][ahk chords]. Notably absent are grave chords (due to what appears to be a bug in AutoHotKey's Unicode handling, I felt compelled to leave them commented out) and all those chords that create characters with no extended-ASCII value.
 
 To use it, install and run AutoHotKey, right-click the system tray icon and select 'Edit This Script'. Copy and paste the contents of my script into this script (either overwrite or append it), save, and select 'Reload This Script' from the menu of AutoHotKey's system tray icon. 
 
@@ -41,3 +41,5 @@ By this point, you should have Mac OS X style text input on your humble Windows 
 [macosuk keyboard]: /files/posts/mac-os-x-keyboard-layouts-on-windows/MacOSUK.zip "Mac OS X keyboard layout for Windows"
 [AutoHotKey]: http://www.autohotkey.com/
 [ahk chords]: /files/posts/mac-os-x-keyboard-layouts-on-windows/AHKChords.txt "Mac OS X accent chords for AutoHotKey on Windows"
+
+*[ASCII]: American Standard Code for Information Interchange

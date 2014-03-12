@@ -2,7 +2,7 @@
 layout: post
 title: Search, and ye shall fail
 ---
-There's an accepted solution for channelled searching: offer a textbox input and a submit button, supported by a series of links to each channel of the search. The links will typically have JavaScript layered onto them (in theory, at least) to rewrite the form's target, so that the user may refine their search before submitting it. This behaviour can be seen on [Yahoo! <abbr title="United States" class="caps">US</abbr>][Y!US], [Yahoo! <abbr title="United Kingdom" class="caps">UK</abbr> and Ireland][Y!UK], [<abbr title="Microsoft Network" class="caps">MSN</abbr>][MSN], and yes, even [Google][].
+There's an accepted solution for channelled searching: offer a textbox input and a submit button, supported by a series of links to each channel of the search. The links will typically have JavaScript layered onto them (in theory, at least) to rewrite the form's target, so that the user may refine their search before submitting it. This behaviour can be seen on [Yahoo! US][Y!US], [Yahoo! UK and Ireland][Y!UK], [MSN][MSN], and yes, even [Google][].
 
 It _must_ be the best solution, mustn't it, if all these sites use similar techniques?
 
@@ -30,7 +30,7 @@ Given a little semantic markup and CSS (with a smattering of JavaScript to add e
 
 So I did.
 
-That's what you can see in action on the new [Yahoo! <abrr title="United Kingdom" class="caps">UK</abrr> and Ireland <abbr title="Television" class="caps">TV</abbr>][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]).
+That's what you can see in action on the new [Yahoo! <abrr title="United Kingdom" class="caps">UK</abrr> and Ireland TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]).
 
 ##Implementation notes
 
@@ -48,11 +48,11 @@ The radio-buttons' full text, though, would not make sense in a visual context: 
 
 Furthermore, because the radio-buttons are still present in the content of the page, keyboard users may navigate the form fully through the keyboard (using arrow keys to move between items radio-buttons in a collection).
 
-<ins>Once again, this can all be seen in action on the new [Yahoo! <abrr title="United Kingdom" class="caps">UK</abrr> and Ireland <abbr title="Television" class="caps">TV</abbr>][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]). [Links added at Mike's suggestion]</ins>
+<ins>Once again, this can all be seen in action on the new [Yahoo! UK and Ireland TV][Y!TV UK] (along with [France][Y!TV FR], [Germany][Y!TV DE], [Italy][Y!TV IT], and [Spain][Y!TV ES]). [Links added at Mike's suggestion]</ins>
 
 ##Thanks
 
-I can by no means take full responsibility for the successful implementation of this concept, though: I'd particularly like to thank [Norm!][], [Mike Davies][], [Alex Lee][] (our designer), [Tim Huegdon][], and [Ann McMeekin][] (of the [<abbr title="Royal National Institute of the Blind" class="caps">RNIB</abbr>][RNIB]) for all their help, advice, and patience (particularly when I got things working and made lots of excited noises at them), and this wouldn't have ever been a reality on Yahoo! TV for Europe if it hadn't been for the receptive, responsive attitude of the engineers working on Yahoo! Search for Europe.
+I can by no means take full responsibility for the successful implementation of this concept, though: I'd particularly like to thank [Norm!][], [Mike Davies][], [Alex Lee][] (our designer), [Tim Huegdon][], and [Ann McMeekin][] (of the [RNIB][RNIB]) for all their help, advice, and patience (particularly when I got things working and made lots of excited noises at them), and this wouldn't have ever been a reality on Yahoo! TV for Europe if it hadn't been for the receptive, responsive attitude of the engineers working on Yahoo! Search for Europe.
 
 [Y!US]:   http://yahoo.com/
 [Y!UK]:   http://uk.yahoo.com/
@@ -71,3 +71,5 @@ I can by no means take full responsibility for the successful implementation of 
 [Tim Huegdon]: http://nefariousdesigns.co.uk/ "Tim Huegdon's Nefarious Designs"
 [Ann McMeekin]:http://www.pixeldiva.co.uk/ "Ann McMeekin: pixeldiva"
 [RNIB]:        http://www.rnib.org.uk/
+
+*[RNIB]: Royal National Institute of the Blind
