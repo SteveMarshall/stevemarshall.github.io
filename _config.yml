@@ -11,3 +11,6 @@ safe: true
 lsi: false
 pygments: true
 markdown: kramdown
+# Not sure if I want github flavoured markdown. Hmm.
+# kramdown:
+#   input: GFM
