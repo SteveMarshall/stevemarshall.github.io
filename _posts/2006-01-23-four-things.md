@@ -42,7 +42,7 @@ Without further ado, here are my lists:
 
 * Carpaccio
 * Bacon, sausage, and egg sarnie
-* Whole packs of 'speciality' meats (Parma ham, 
+* Whole packs of 'speciality' meats (Parma ham,
 * Anything with seafood (and mussels in particular)
 
 ## Four websites I visit daily

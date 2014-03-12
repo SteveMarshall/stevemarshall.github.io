@@ -2,7 +2,7 @@
 layout: post
 title: "XAML: An insider's look out"
 ---
-[Zach][zach home] recently [posted his thoughts][zach xaml post] on 
+[Zach][zach home] recently [posted his thoughts][zach xaml post] on
 Microsoft's XAML. As my main development environment is Microsoft's .Net
 Framework, I've had a chance to have a more in-depth look at what XAML
 is and does, and feel that I should clear some points up.
