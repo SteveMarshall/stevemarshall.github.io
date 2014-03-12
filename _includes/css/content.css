@@ -54,6 +54,9 @@ p + p {
 blockquote p + footer {
   margin-top:               -24px;
 }
+li p:last-child {
+  margin-bottom:            0;
+}
 
 /* Correct for weird line-height of fixed-width fonts */
 code {
