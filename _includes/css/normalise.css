@@ -1,0 +1,35 @@
+blockquote,
+body,
+cite,
+dfn,
+h1,
+h2,
+h3,
+hr,
+html,
+li,
+ol,
+p,
+pre,
+q,
+ul {
+  border:                   0;
+  font-weight:              normal;
+  margin:                   0;
+  padding:                  0;
+}
+
+em,
+cite,
+blockquote,
+q {
+    font-style:             italic;
+}
+em q,
+blockquote em,
+blockquote q {
+    font-style:             normal;
+}
+strong {
+    font-weight:            bold;
+}

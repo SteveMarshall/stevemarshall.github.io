@@ -1,0 +1,13 @@
+#footer {
+  color:                    #aaa;
+  margin-top:               48px;
+}
+#footer a {
+  color:                    #acd47a;
+}
+#footer p {
+  margin:                   24px 0;
+}
+#footer p + p {
+  text-indent:              0;
+}

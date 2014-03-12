@@ -1,0 +1,26 @@
+body {
+    background:             #fff;
+    background-image:       url(/assets/i/baseline.png);
+    background-size:        1px 24px;
+    color:                  #333;
+    font:                   16px/24px
+                            "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding:                48px 24px;
+    max-width:              420px;
+}
+
+a {
+    color:                  #72ba00;
+    text-decoration:        none;
+}
+a:hover,
+a:focus,
+a:active {
+  text-decoration:          underline;
+}
+
+sub,
+sup {
+    font-size:              12px;
+    line-height:            0;
+}
