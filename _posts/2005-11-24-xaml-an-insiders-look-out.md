@@ -31,7 +31,7 @@ code.
 ## Why all the hubbub?
 
 Web developers know that having a hulking great piece of
-<del>JavaScript</del><ins>ECMAScript</ins> to build their entire user
+~~JavaScript~~<ins>ECMAScript</ins> to build their entire user
 interface isn't good for code maintenance. Why should the same not be
 true for client-side applications? After all, you don't hear anyone
 crying "think of the children!" when people talk about [XUL][Wiki XUL]

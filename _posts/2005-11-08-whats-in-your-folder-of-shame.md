@@ -15,7 +15,7 @@ I too have a folder of shame. Currently, it contains:
 As I'm still pretty new to the game, my folder actually seems to contain
 things I'm seriously working on, but haven't yet finished. This, though,
 is mostly because I'm still very much trying to find my feet in the
-world and get the hang of writing things for <del>my mum</del><ins>the
+world and get the hang of writing things for ~~my mum~~<ins>the
 world</ins> to see.
 
 [ben folder of shame]: http://ben-ward.co.uk/journal/whats-in-your-folder-of-shame/

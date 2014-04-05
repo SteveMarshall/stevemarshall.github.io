@@ -4,7 +4,7 @@ title: Mac OS X Keyboard Layouts on Windows
 ---
 A while back, [Ben][] was trying to replicate [certain keyboard niceties
 from the wonderful Mac OS X][Ben typography] in Windows. As a fellow
-<del>superhero with an alter ego</del><ins>Mac user by night, Windows
+~~superhero with an alter ego~~<ins>Mac user by night, Windows
 user by day</ins> and utter pedant, I was intrigued, so decided to dig
 further into the problem.
 

@@ -2,11 +2,11 @@
 layout: post
 title: Opera Mini for iPhone
 ---
+
 [Opera Mini for iPhone][] was released this morning, and after some
 discussion on Twitter, I thought it might be useful (if only to
 [Chris][Chris Mills]) to write up my thoughts. In general, though, I
-think <cite>[Aral][Aral Balkan]</cite> [said it best][Aral on Opera
-Mini]:
+think <cite>[Aral][Aral Balkan]</cite> [said it best][Aral on Opera Mini]:
 
 > Opera Mini: the Nokia browsing experience, now on iPhone.
 

@@ -10,7 +10,15 @@ exclude:
 safe: true
 lsi: false
 pygments: true
-markdown: kramdown
-# Not sure if I want github flavoured markdown. Hmm.
-# kramdown:
-#   input: GFM
+
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - autolink
+    - no_intra_emphasis
+    - safelink
+    - smart
+    - space_after_headers
+    - strikethrough
+    - superscript
+    - tables

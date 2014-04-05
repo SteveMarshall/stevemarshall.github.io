@@ -55,8 +55,8 @@ for fear of not knowing anyone at another. That shan't happen this year.
 
 Further, I intend to be very much, to use an NLP phrase, "in the
 moment". Also, in a change to normal programming, I shall be drinking
-alcohol (although hopefully not to [the levels of excess][flickr me
-drunk] seen at [d.Construct 07][]).
+alcohol (although hopefully not to [the levels of excess][flickr me drunk]
+seen at [d.Construct 07][]).
 
 The biggest change, though, is that I shall, finally, be attending [SXSW
 music][SXSW 08 music]. The past two years, I've lusted after that extra
