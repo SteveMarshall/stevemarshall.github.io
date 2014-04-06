@@ -1,44 +1,20 @@
-h1,
-h2,
-h3,
-.meta {
-  font-family:              Georgia, Century, serif;
-  text-transform:           uppercase;
-}
 h1 {
     font-size:              24px;
-    letter-spacing:         1px;
     margin-top:             -3px;
     padding-bottom:         3px;
 }
 h2 {
   font-size:                18px;
-  letter-spacing:           1px;
 }
 h3 {
   font-size:                16px;
-  margin-bottom:            -1px;
-  padding-top:              1px;
+  color:                    #aaa;
 }
 .meta {
-    text-transform:         uppercase;
     line-height:            23px;
     margin-bottom:          24px;
     padding-top:            1px;
-}
-.meta sup {
-    text-transform:         none;
-}
-
-/* De-emphasise words in headers et al. */
-h1 span,
-h2 span,
-h3 span,
-.meta span {
-    font-variant:           normal;
-    font-style:             italic;
-    text-transform:         lowercase;
-    letter-spacing:         0;
+    color:                  #aaa;
 }
 
 p,
