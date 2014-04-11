@@ -21,7 +21,7 @@ p,
 ol,
 ul {
     margin:                 24px 0;
-    position:                 relative;
+    position:               relative;
 }
 p + p {
     margin-top:             -24px;
