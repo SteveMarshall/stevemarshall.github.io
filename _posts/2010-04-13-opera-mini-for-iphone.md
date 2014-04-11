@@ -39,7 +39,7 @@ in the same way as elsewhere on iPhone, or bounce back when you hit a
 boundary.
 
 But then again, sometimes it doesn't do that: sometimes, it slides at a
-constant rate until it stops and then jumps in the /opposite/ direction
+constant rate until it stops and then jumps in the *opposite* direction
 to your gesture and scrolls a little bit in that direction. Not because
 it hit a page edge, though (those stop scrolling dead, mostly): these
 reversals tend to happen just when you think you've got the measure of
