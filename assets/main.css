@@ -3,7 +3,6 @@ layout: nil
 ---
 {% include css/normalise.css %}
 {% include css/base.css %}
-{% include css/options.css %}
 {% include css/content.css %}
 {% include css/footer.css %}
 {% include css/syntax.css %}
