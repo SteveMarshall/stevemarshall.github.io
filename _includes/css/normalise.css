@@ -14,7 +14,7 @@ pre,
 q,
 ul {
   border:                   0;
-  font-weight:              normal;
+  font-weight:              300;
   margin:                   0;
   padding:                  0;
 }
@@ -31,5 +31,5 @@ blockquote q {
     font-style:             normal;
 }
 strong {
-    font-weight:            bold;
+    font-weight:            500;
 }

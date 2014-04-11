@@ -1,3 +1,9 @@
+h1,
+h2,
+h3,
+.meta {
+    font-weight:            100;
+}
 h1 {
     font-size:              24px;
     margin-top:             -3px;
@@ -7,14 +13,12 @@ h2 {
   font-size:                18px;
 }
 h3 {
-  font-size:                16px;
-  color:                    #aaa;
+  font-size:                inherit;
 }
 .meta {
     line-height:            23px;
     margin-bottom:          24px;
     padding-top:            1px;
-    color:                  #aaa;
 }
 
 p,
