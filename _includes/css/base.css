@@ -3,7 +3,7 @@ body {
     color:                  #333;
     font:                   16px/24px
                             "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin:                 53px 24px;
+    margin:                 53px 24px 43px;
     max-width:              420px;
 }
 body.grid {
