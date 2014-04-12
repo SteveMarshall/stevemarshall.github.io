@@ -9,7 +9,8 @@ body {
 body.grid {
     background-image:       url(/assets/i/baseline.png);
     background-size:        1px 24px;
-}
+    outline:                1px solid #f0f0f0;
+  }
 
 a {
     color:                  #72ba00;
