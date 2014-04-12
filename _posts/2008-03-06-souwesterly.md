@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sou'westerly
+title: Sou’westerly
 ---
 Given that I'm sitting \[or was, at the time of writing---Ed.\] in a
 large, metal tube at about 35,000ft., and [Ben][Ben Ward] is writing for

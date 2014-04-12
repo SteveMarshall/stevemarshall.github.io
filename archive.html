@@ -10,7 +10,7 @@ disable_meta: true
 <ul>
   {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{% include markdown_title.html title=post.title %}</a>
   </li>
   {% assign curr_year = post.date | date: "%Y" %}
   {% assign prev_year = post.previous.date | date: "%Y" %}

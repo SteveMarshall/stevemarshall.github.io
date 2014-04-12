@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTTPSConnection
+title: "`HTTPSConnection`"
 ---
 So apparently I now write Python.
 
