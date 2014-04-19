@@ -1,13 +1,12 @@
 document.addEventListener( "DOMContentLoaded", function() {
-  var classes = window.location.search.substr(1);
-  if (0 < classes.length) {
-      classes = classes.replace(/-/g, ' ');
-      document.body.className = classes;
+  var classes = window.location.search;
+  if (classes.match(/\bgrid\b/)) {
+      document.body.className = 'grid';
 
       var anchors = document.getElementsByTagName('a');
       for (var i = 0; i < anchors.length; i++) {
         if (0 === anchors[i].href.indexOf('http://' + window.location.host + '/')) {
-          anchors[i].href += window.location.search;
+          anchors[i].href += '?grid';
         }
       }
   }
