@@ -8,7 +8,8 @@ title: Perfection
 > <footer><cite>Antoine de Saint Exupéry, 'Terre des Hommes' (1939)</cite></footer>
 
 This sentiment is just as true for markup, style, and behaviour on the
-web. The trick, though, is to find the optimal balance between the four.
+web. The trick, though, is to find the optimal balance between the
+three.
 
 ## Markup
 
