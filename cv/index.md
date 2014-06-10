@@ -17,8 +17,8 @@ sitename_only: true
 Summary
 -------
 
-Passionate software developer with experience designing, building, and
-shipping large-scale internationalised applications and websites.
+Software developer with experience designing, building, and shipping
+large-scale internationalised applications and websites.
 
 Particularly enthused by the web and new technologies, especially how
 the web extends into our everyday lives, and is a
