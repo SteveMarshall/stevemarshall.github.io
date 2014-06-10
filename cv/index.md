@@ -133,15 +133,11 @@ including <abbr title="North Atlantic Treaty Organisation">NATO</abbr>,
 <span class="meta"><time datetime="2002-07-15">July 2002</time>--<time
 datetime="2006-05-26">May 2006</time></span>
 
-Developed and maintained the corporate intranet portal, public web
-sites (including fujitsu-siemens.com and 30+ international variants),
-and other key systems.
-
-Led development of several projects, including two major updates for
-the award-winning bespoke intranet portal software (one of
-Nielsen-Norman Group's 'Ten Best Intranets' of 2003) and development of
-a content management system driving all public-facing sites. Led
-training and support of offshore development team based in Russia.
+Developed and maintained the public web sites (including
+fujitsu-siemens.com and 30+ international variants) and the
+award-winning bespoke intranet portal software (one of Nielsen-Norman
+Group's 'Ten Best Intranets' of 2003), along with other key business
+systems.
 
 Notable personal projects
 -------------------------
