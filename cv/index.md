@@ -31,7 +31,7 @@ Employment history
 ### Technical Architect at [Tizaro Supply](http://tizaro.com)
 
 <span class="meta"><time datetime="2014-03-31">March
-2014</time>--<time datetime="2014-06-01">June 2014</time></span>
+2014</time>--Present</span>
 
 Improved infrastructure resilience and deployment processes of
 industrial supply startup.
