@@ -142,6 +142,16 @@ systems.
 Notable personal projects
 -------------------------
 
+### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
+
+Built the core of a Python library to allow programmatic access to
+[<abbr title="Moving Picture Experts Group">MPEG</abbr> 4
+container](http://en.wikipedia.org/wiki/MPEG-4_Part_14) files, a
+project requiring reverse-engineering of other libraries and <abbr
+title="Moving Picture Experts Group">MPEG</abbr> standards, low-level
+manipulation of large (multi-gigabyte) files, and complex data
+structures.
+
 ### [Spacelog](http://spacelog.org/) and [/dev/forts](http://devfort.com/)
 
 Worked as front- and back-end developer and data architect on Spacelog,
@@ -158,16 +168,6 @@ Habitual](http://behabitual.com/), a tool to help people form new
 habits, [Mostly Final](http://mostlyfinal.com/), a tool for
 collaborating on designs, and various other projects. Lead development
 of fort infrastructure automation tools.
-
-### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
-
-Built the core of a Python library to allow programmatic access to
-[<abbr title="Moving Picture Experts Group">MPEG</abbr> 4
-container](http://en.wikipedia.org/wiki/MPEG-4_Part_14) files, a
-project requiring reverse-engineering of other libraries and <abbr
-title="Moving Picture Experts Group">MPEG</abbr> standards, low-level
-manipulation of large (multi-gigabyte) files, and complex data
-structures.
 
 Interests
 ---------
