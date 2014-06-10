@@ -179,8 +179,7 @@ Interests
   (http://www.flickr.com/photos/steviebm/sets/72157625921906399/):*
   Sometime semi-pro photojournalist and music photographer,
   published on Yahoo! Music and in various independent print magazines.
-- *Rock climbing:* Climber with 10 years’ experience; spent some time
-  training to become an instructor.
+- *Rock climbing:* Climber with over 10 years’ experience.
 - *Videogames:* Avid gamer with a particular love of RPG and adventure
   games.
 
