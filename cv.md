@@ -6,7 +6,7 @@ disable_meta: true
 ---
 
 [Email](mailto:cv@nascentguruism.com) / [Personal
-website](http://nascentguruism.com/) / [GitHub
+website](http://stevemarshall.com/) / [GitHub
 profile](http://github.com/SteveMarshall)
 
 Summary
@@ -29,7 +29,7 @@ Employment history
 2014</time>--<time datetime="2014-06-01">June 2014</time></span>
 
 Improved infrastructure resilience and deployment processes of
-manufacturing supplies ecommerce site.
+manufacturing supply ecommerce site.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 

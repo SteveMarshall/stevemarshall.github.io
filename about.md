@@ -5,9 +5,9 @@ title: About Steve Marshall
 disable_meta: true
 ---
 
-If he ever grows up, Steve Marshall wants to be a mighty pirate. Until
-then, he has to make do with being a software architect. He's worked on
-travel APIs, military-grade software, sites for burgeoning rock bands,
+If he ever grows up, Steve wants to be a mighty pirate. Until then, he
+has to make do with being a software architect. He's worked on travel
+APIs, military-grade software, sites for burgeoning rock bands,
 award-winning intranet portals, and a host of things between.
 
 When he’s not working or complaining [on
