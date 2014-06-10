@@ -41,10 +41,10 @@ industrial supply startup.
 <span class="meta"><time datetime="2012-12-07">December
 2012</time>--<time datetime="2014-03-14">March 2014</time></span>
 
-Ultimate responsibility for the design of all APIs, user interfaces,
-and products across the whole of Expedia Affiliate Network; designing
-from scratch or supporting and reviewing other teams’ design efforts,
-and providing standards and guidelines they must adhere to.
+Responsibility for the design of all APIs, user interfaces, and
+products across the whole of Expedia Affiliate Network; designing from
+scratch or supporting and reviewing other teams’ design efforts, and
+providing standards and guidelines they must adhere to.
 
 Introduced "developer experience" design, applying user experience,
 information architecture, and human factors design techniques to APIs
@@ -79,11 +79,6 @@ public speaking.
 
 <span class="meta"><time datetime="2010-01-01">January
 2010</time>--<time datetime="2011-09-21">September 2011</time></span>
-
-Worked on numerous high-profile projects as part of an internal
-consultancy team.
-
-Notable projects:
 
 - Designed front-end architecture for, and led development of, new
   global Yahoo! Maps application.
