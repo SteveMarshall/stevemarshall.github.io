@@ -97,9 +97,12 @@ working with local and remote teams, designing development environments
 and processes, improving existing tools, and advising clients and
 designers on technical limitations.
 
-Continued supporting and representing the Yahoo! Developer Network at
-events including multiple developer conferences. Ran various internal
-training courses for other developers within Yahoo!.
+Played an active role in running Yahoo! Open Hack London events in 2007
+and 2009, including running front-of-house during the awards ceremony
+in 2009. Further supported Yahoo! Developer Network's community
+outreach efforts by representing Yahoo! at numerous developer
+conferences. Ran various internal training courses for other developers
+within Yahoo!.
 
 ### Web developer at [Yahoo!](http://yahoo.com/)
 
@@ -107,21 +110,13 @@ training courses for other developers within Yahoo!.
 2006</time>--<time datetime="2009-12-31">December 2009</time></span>
 
 Worked on, and later led, front-end development of European
-entertainment websites, including development and maintenance of TV,
+entertainment websites, including development and maintenance of
 Movies, Music, Games, and Videogames.
 
 Led development of complete re-implementation of Yahoo! TV for Europe
-and defined and delivered a major rework of the TV listings services
-(with a heavy focus on accessibility and SEO), resulting in a
+including a major rework of the TV listings services, resulting in a
 week-on-week doubling of traffic for the first three months after
-launch. Built new Yahoo! Games site for Europe, liaising with, and
-managing technical requirements for, multiple partners. Also developed
-numerous high-profile micro-sites for special events.
-
-Played an active role in running Yahoo! Open Hack London events in 2007
-and 2009, including running front-of-house during the awards ceremony
-in 2009. Further supported Yahoo! Developer Network's community
-outreach by representing Yahoo! at numerous community events.
+launch.
 
 ### Software engineer at [Systematic Software Engineering](http://www.systematic.com/)
 
