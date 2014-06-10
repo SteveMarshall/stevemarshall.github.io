@@ -23,6 +23,14 @@ trainer.
 Employment history
 ------------------
 
+### Technical Architect at [Tizaro Supply](https://tizaro.com)
+
+<span class="meta"><time datetime="2014-03-31">March
+2014</time>--<time datetime="2014-06-01">June 2014</time></span>
+
+Improved infrastructure resilience and deployment processes of
+manufacturing supplies ecommerce site.
+
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
 <span class="meta"><time datetime="2012-12-07">December
