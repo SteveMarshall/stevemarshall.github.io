@@ -5,6 +5,11 @@ disable_meta: true
 sitename_only: true
 ---
 
+
+<p id="pdf-version"><a href="/cv/Steve-Marshall.pdf">
+  PDF version of Steve's CV
+</a></p>
+
 [Email](mailto:cv@nascentguruism.com)<span> / </span>
 [Personal website](http://stevemarshall.com/)<span> / </span>
 [GitHub profile](http://github.com/SteveMarshall)

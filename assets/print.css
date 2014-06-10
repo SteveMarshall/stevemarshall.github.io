@@ -59,6 +59,7 @@ h1 + p span {
 h3 a:after {
   content: " (" attr(href) ")";
 }
+#pdf-version,
 #footer {
   display:                  none;
 }

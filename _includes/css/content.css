@@ -78,3 +78,8 @@ img {
   padding:                  0 24px 24px;
   position:                 absolute;
 }
+
+#pdf-version + p {
+  margin-top:               24px;
+  text-indent:              0;
+}
