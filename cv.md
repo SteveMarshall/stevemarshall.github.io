@@ -23,7 +23,7 @@ trainer.
 Employment history
 ------------------
 
-### Technical Architect at [Tizaro Supply](https://tizaro.com)
+### Technical Architect at [Tizaro Supply](http://tizaro.com)
 
 <span class="meta"><time datetime="2014-03-31">March
 2014</time>--<time datetime="2014-06-01">June 2014</time></span>
@@ -169,7 +169,7 @@ Final](http://mostlyfinal.com/), a tool for collaborating on designs,
 habits, and Pebble box, a security conscious online voting system. Lead
 development of fort infrastructure automation tools.
 
-### [`mp4-quicktime`](https://github.com/SteveMarshall/mp4-quicktime)
+### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
 
 Built the core of a Python library to allow programmatic access to
 [<abbr title="Moving Picture Experts Group">MPEG</abbr> 4
