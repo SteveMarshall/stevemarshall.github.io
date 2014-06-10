@@ -153,12 +153,11 @@ on new ideas.
 
 Also took part in /dev/forts [2](http://devfort.com/cohort/2/),
 [4](http://devfort.com/cohort/4/), [7](http://devfort.com/cohort/7/),
-and [9](http://devfort.com/cohort/9/) which resulted, respectively, in
-an as-yet-unfinished recipe sharing website, [Mostly
-Final](http://mostlyfinal.com/), a tool for collaborating on designs,
-[Be Habitual](http://behabitual.com/), a tool to help people form new
-habits, and Pebble box, a security conscious online voting system. Lead
-development of fort infrastructure automation tools.
+and [9](http://devfort.com/cohort/9/) which resulted in [Be
+Habitual](http://behabitual.com/), a tool to help people form new
+habits, [Mostly Final](http://mostlyfinal.com/), a tool for
+collaborating on designs, and various other projects. Lead development
+of fort infrastructure automation tools.
 
 ### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
 
