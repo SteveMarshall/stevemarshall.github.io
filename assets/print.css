@@ -1,0 +1,64 @@
+body {
+  font-size:                11px;
+  line-height:              17px;
+  max-width:                none;
+}
+
+h1 {
+    font-size:              17px;
+    margin-top:             -3px;
+    padding-bottom:         3px;
+}
+h2 {
+  font-size:                14px;
+}
+h3 {
+  font-size:                inherit;
+}
+.meta {
+    line-height:            16px;
+    margin-bottom:          17px;
+    padding-top:            1px;
+}
+p,
+ol,
+ul {
+    margin:                 17px 0;
+    position:               relative;
+}
+p + p {
+    margin-top:             -17px;
+    text-indent:            17px;
+}
+blockquote p + footer {
+  margin-top:               -17px;
+}
+h2 + *,
+h2 + * > *:first-child,
+h3 + *,
+h3 + * > *:first-child {
+    margin-top:             0;
+}
+
+a {
+    color:                  inherit;
+}
+h1 + p a {
+  display:  block;
+}
+h1 + p a:after {
+ content:": " attr(href);
+}
+h1 + p a:last-child:after {
+ content:": " attr(href);
+}
+h1 + p span {
+  display:  none;
+}
+
+h3 a:after {
+  content: " (" attr(href) ")";
+}
+#footer {
+  display:                  none;
+}

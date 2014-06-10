@@ -1,13 +1,13 @@
 ---
-permalink: cv/
 layout: post
 title: Steve Marshall
 disable_meta: true
+sitename_only: true
 ---
 
-[Email](mailto:cv@nascentguruism.com) / [Personal
-website](http://stevemarshall.com/) / [GitHub
-profile](http://github.com/SteveMarshall)
+[Email](mailto:cv@nascentguruism.com)<span> / </span>
+[Personal website](http://stevemarshall.com/)<span> / </span>
+[GitHub profile](http://github.com/SteveMarshall)
 
 Summary
 -------
