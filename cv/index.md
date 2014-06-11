@@ -17,8 +17,8 @@ sitename_only: true
 Summary
 -------
 
-Software developer with experience designing, building, and shipping
-large-scale internationalised applications and websites.
+Software developer and architect with experience designing, building,
+and shipping large-scale internationalised applications and websites.
 
 Particularly enthused by the web and new technologies, especially how
 the web extends into our everyday lives, and is a
@@ -34,7 +34,8 @@ Employment history
 2014</time>--Present</span>
 
 Improved infrastructure resilience and deployment processes of
-industrial supply startup.
+industrial supply startup. Produced open source image processing
+tools for cloud deployment.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
