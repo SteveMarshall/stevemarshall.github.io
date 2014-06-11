@@ -43,16 +43,13 @@ h3 + * > *:first-child {
 a {
     color:                  inherit;
 }
-h1 + p a {
+#pdf-version + p a {
   display:  block;
 }
-h1 + p a:after {
+#pdf-version + p a:after {
  content:": " attr(href);
 }
-h1 + p a:last-child:after {
- content:": " attr(href);
-}
-h1 + p span {
+#pdf-version + p span {
   display:  none;
 }
 
