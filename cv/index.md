@@ -28,10 +28,15 @@ trainer.
 Employment history
 ------------------
 
+### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
+
+<span class="meta"><time datetime="2014-09-29">September
+2014</time>--Present</span>
+
 ### Technical Architect at [Tizaro Supply](http://tizaro.com)
 
 <span class="meta"><time datetime="2014-03-31">March
-2014</time>--Present</span>
+2014</time>--<time datetime="2014-06-30">July</time></span>
 
 Improved infrastructure resilience and deployment processes of
 industrial supply startup. Produced open source image processing
