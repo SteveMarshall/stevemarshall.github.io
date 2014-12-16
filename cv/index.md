@@ -33,6 +33,15 @@ Employment history
 <span class="meta"><time datetime="2014-09-29">September
 2014</time>--Present</span>
 
+Responsible for all new public-facing digital services related to the
+[National Offender Management
+Service](https://www.gov.uk/government/organisations/national-offender-m
+anagement-service). Leading integration of [Prison Visits
+Booking](https://www.gov.uk/prison-visits) service with legacy
+government backend. Also working on team-wide infrastructure design,
+focussed particularly on continuous delivery across projects and
+reduction of duplication.
+
 ### Technical Architect at [Tizaro Supply](http://tizaro.com)
 
 <span class="meta"><time datetime="2014-03-31">March
