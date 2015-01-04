@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.name }}</title>
   <link href="{{ site.url }}{{ page.url }}" rel="self"/>
-  <link href="{{ site.url }}"/>
+  <link href="{{ site.url }}/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}</id>
-  <rights>&copy; {{ site.time | date: "%Y" }} {{ site.name }}, all rights reserved.</rights>
+  <rights>© {{ site.time | date: "%Y" }} {{ site.name }}, all rights reserved.</rights>
   <author>
     <name>{{ site.name }}</name>
   </author>
