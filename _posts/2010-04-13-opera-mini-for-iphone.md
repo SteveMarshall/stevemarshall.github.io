@@ -55,11 +55,10 @@ aforementioned changes in direction, come to think of it.
 
 ### Zooming
 
-![](http://nascentguruism.com/wp-content/uploads/2010/04/zoom-e1271197835389.jpg)So
-what about the other most common gesture in Safari? Zooming in Opera is
-a little like scrolling: it feels like a first-cut demo that you'd get
-if you described how an iPhone does it to someone who had never used
-one, then had them build their own.
+So what about the other most common gesture in Safari? Zooming in Opera
+is a little like scrolling: it feels like a first-cut demo that you'd
+get if you described how an iPhone does it to someone who had never
+used one, then had them build their own.
 
 Opera Mini has two levels of zoom: in, or out. In Safari, if I want to
 zoom in just a little, I can zoom to *exactly* the level I want. I have
@@ -101,11 +100,10 @@ seconds and, sometimes, presents you with a popup menu. Unless you've
 lost your internet connection since loading the page, in which case it
 doesn't.
 
-![](http://nascentguruism.com/wp-content/uploads/2010/04/select-op-pre.jpg)Typically,
-this menu offers simply 'Select Text'. If you press-and-hold on, or
-near, an image, the popup menu offers, in addition to text selection,
-the option of opening or saving the image, as you'd see in native image
-selection popover dialogs.
+Typically, this menu offers simply 'Select Text'. If you press-and-hold
+on, or near, an image, the popup menu offers, in addition to text
+selection, the option of opening or saving the image, as you'd see in
+native image selection popover dialogs.
 
 So you click on 'Select Text', and a serifed bar cursor (rather than
 iPhone's native slab bar cursor) is inserted where your finger was. You
