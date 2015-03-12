@@ -73,10 +73,8 @@ h3 + * > *:first-child {
 
 /* HACK: Ensure this doesn't get overridden by the above to it stays on-grid*/
 img {
-  left:                     100%;
-  margin-top:               -5px;
-  padding:                  0 24px 24px;
-  position:                 absolute;
+    display:                block;
+    margin-top:             19px;
 }
 
 #pdf-version + p {

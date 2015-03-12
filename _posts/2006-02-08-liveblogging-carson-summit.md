@@ -7,4 +7,4 @@ I'll post properly later. In the meantime here's the [SubEthaEdit
 notes][notes]
 
 [carson]: http://carsonworkshops.com/summit/
-[notes]: /files/posts/liveblogging-carson-summit/Carson.html
+[notes]: http://nascentguruism.com/files/posts/liveblogging-carson-summit/Carson.html

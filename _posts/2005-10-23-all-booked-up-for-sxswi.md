@@ -2,7 +2,6 @@
 layout: post
 title: All booked up for SXSWi
 ---
-[![Radisson Hotel, Austin, Texas][Radisson image]][Radisson image large]
 So that's it - [Fatty][] and I are all booked up for our sojourn to the
 veritable geek-fest that is [SXSW interactive][SXSWi] (which I am hereby
 christening 'suckswee').
@@ -33,8 +32,6 @@ or something!
 Also, recommendations for where we can go for breakfasts would be good,
 too, as such things appear to be unheard of in the Austin Radisson...
 
-[Radisson image]: http://nascentguruism.com/images/posts/all-booked-up-for-sxswi/radissonsmall.jpg
-[Radisson image large]: http://nascentguruism.com/images/posts/all-booked-up-for-sxswi/radisson.jpg
 [Fatty]: http://blog.fatbusinessman.com/ "David 'Fatty' Thompson's blog"
 [SXSWi]: http://2006.sxsw.com/interactive/
 [Radisson]: http://www.radisson.com/austintx

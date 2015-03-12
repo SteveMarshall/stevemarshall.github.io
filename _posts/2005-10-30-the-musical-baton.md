@@ -2,7 +2,6 @@
 layout: post
 title: The musical baton
 ---
-![][iTunes image]
 Back when I was still known as Stevie 'no blog' Marshall, [Ben][] passed
 me the [musical baton][ben baton]. Well, I've finally decided to pick it
 up and run the final stretch.
@@ -60,10 +59,9 @@ by the time I went to get one.
 
 ### Jimmy Chamberlin Complex - 'Life Begins Again'
 
-![](/images/posts/the-musical-baton/lifeBeginsAgain.jpg)The Jimmy
-Chamberlin Complex album is an altogether different beast: the debut
-album of Jimmy Chamberlin, the former Smashing Pumpkins and Zwan
-drummer, was something for which I had very high expectations.
+The Jimmy Chamberlin Complex album is an altogether different beast:
+the debut album of Jimmy Chamberlin, the former Smashing Pumpkins and
+Zwan drummer, was something for which I had very high expectations.
 
 As a huge Pumpkins and Zwan fan, I had many preconceived ideas about
 what a Jimmy Chamberlin album might be like. This album broke all of my
@@ -82,11 +80,10 @@ All that said, I love this album.
 
 ## The song I'm playing right now
 
-![](/images/posts/the-musical-baton/dummy.jpg)Portishead's 'Sour Times'
-has just started playing. I was introduced to Portishead a few months
-ago when a friend sent me their debut album, 'Dummy', as a gift for no
-apparent reason (not that I'm complaining - any CD I don't have to buy
-is fine by me).
+Portishead's 'Sour Times' has just started playing. I was introduced to
+Portishead a few months ago when a friend sent me their debut album,
+'Dummy', as a gift for no apparent reason (not that I'm complaining -
+any CD I don't have to buy is fine by me).
 
 Whilst I didn't actually choose to play this song ([iTunes][] party
 shuffle, how I love thee!), it's a bloody good choice, all the same:
@@ -121,32 +118,29 @@ child: the others are far more recent acquisitions.
 
 ### 'Show Me How To Live' by [Audioslave](http://www.audioslave.com/), from 'Audioslave'
 
-![](/images/posts/the-musical-baton/audioslave.jpg)I simply *cannot* get
-enough of this song (or, in fact, the rest of the album). I spent about
-15 minutes just trying to decide which track from the album to list.
-Audioslave's music is hard-as-nails, but intricately crafted and with
-awesome vocals from Chris Cornell. I listen to this album at least once
-a week and, without fail, I end up
+I simply *cannot* get enough of this song (or, in fact, the rest of the
+album). I spent about 15 minutes just trying to decide which track from
+the album to list. Audioslave's music is hard-as-nails, but intricately
+crafted and with awesome vocals from Chris Cornell. I listen to this
+album at least once a week and, without fail, I end up
 ~~screaming~~<ins>singing</ins> along.
 
 ### 'Whenever, Wherever, Whatever' by [Maxwell](http://www.musze.com/), from 'MTV Unplugged'
 
-![](/images/posts/the-musical-baton/mtvUnplugged.jpg)Maxwell is one of
-those artists that I think doesn't get anywhere near the respect he
-deserves. He has one of the richest, most satisfying voices I've ever
-heard. His songs are romantic without being trite, intellectual without
-sacrificing accessibility, and, above all, *just damn good*. Not only
-does this song define the way I feel about the people I care about, it
-exudes an intimacy and tenderness rarely found in other songs
-(especially so in the live version I'm referring to, but the same holds
-for the original studio version).
+Maxwell is one of those artists that I think doesn't get anywhere near
+the respect he deserves. He has one of the richest, most satisfying
+voices I've ever heard. His songs are romantic without being trite,
+intellectual without sacrificing accessibility, and, above all, *just
+damn good*. Not only does this song define the way I feel about the
+people I care about, it exudes an intimacy and tenderness rarely found
+in other songs (especially so in the live version I'm referring to, but
+the same holds for the original studio version).
 
 ### 'Baby Let's Rock!' by Zwan, from 'Mary Star Of The Sea'
 
-![](/images/posts/the-musical-baton/maryStarOfTheSea.jpg)This is another
-track where I could substitute it for any other from the album.
-Beautifully crafted, sweet with just enough rockiness, the whole album
-rarely has time to finish before I'm playing it again.
+This is another track where I could substitute it for any other from
+the album. Beautifully crafted, sweet with just enough rockiness, the
+whole album rarely has time to finish before I'm playing it again.
 
 Zwan's work is an altogether different beast from that of The Smashing
 Pumpkins, the band from which half their members originated, but just as
@@ -156,9 +150,9 @@ Speaking of Pumpkins…
 
 ### 'Silverfuck (Live In London) / Over The Rainbow' by The Smashing Pumpkins, from 'Earphoria'
 
-![](/images/posts/the-musical-baton/earphoria.jpg)What can I say about a
-thirteen-and-a-half minute rendition of 'Silverfuck' that has a
-rendition of 'Over The Rainbow' in the middle, for good measure?
+What can I say about a thirteen-and-a-half minute rendition of
+'Silverfuck' that has a rendition of 'Over The Rainbow' in the middle,
+for good measure?
 
 *Fuck me, it's good*!
 
@@ -170,22 +164,20 @@ the most insane thing I've heard in years". Or maybe that's just me.
 
 ### <ins>'Brighter Hell' by The Watchmen, from 'Silent Radar'</ins>
 
-![](/images/posts/the-musical-baton/silentRadar.jpg)Another beautiful,
-intricate, sensual song. The story goes that, to make their 'Silent
-Radar' album, The Watchmen spared no expense, to the point that they
-used a $10,000 vocal microphone! That may sound excessive but, if
-'Brighter Hell' is anything to go by, it was more than worth it. (And
-yes, I realise that money doesn't equal talent, but money *plus* talent
-can often make wonderul things.)
+Another beautiful, intricate, sensual song. The story goes that, to
+make their 'Silent Radar' album, The Watchmen spared no expense, to the
+point that they used a $10,000 vocal microphone! That may sound
+excessive but, if 'Brighter Hell' is anything to go by, it was more
+than worth it. (And yes, I realise that money doesn't equal talent, but
+money *plus* talent can often make wonderul things.)
 
 ### <ins>'No One's Gonna Hurt You' by James Iha, from 'Let It Come Down'</ins>
 
-![](/images/posts/the-musical-baton/letItComeDown.jpg)Yet another soft
-one, again from a former Pumpkin. I'd explain why this one means a lot
-to me, but the person it's for knows who they are and why it does, so
-that's all that matters. Just trust me that it's a beautiful song, and,
-as with Jimmy Chamberlin, you can see Iha's influence on the Pumpkins,
-and how they influenced his work.
+Yet another soft one, again from a former Pumpkin. I'd explain why this
+one means a lot to me, but the person it's for knows who they are and
+why it does, so that's all that matters. Just trust me that it's a
+beautiful song, and, as with Jimmy Chamberlin, you can see Iha's
+influence on the Pumpkins, and how they influenced his work.
 
 I could continue this list for hours, but I think it's for the best if I
 leave it at that.
@@ -204,7 +196,6 @@ anyone, so I won't bother. If you feel like prising it from my hands by
 all means do, but leave a note in the comments so I can add a link to
 you as someone I 'passed' the baton to.
 
-[iTunes image]: /images/posts/the-musical-baton/iTunes.jpg
 [Ben]: http://ben-ward.co.uk/
 [ben baton]: http://ben-ward.co.uk/journal/musical_baton/
 [Brad Sucks]: http://www.bradsucks.net/ "Brad Sucks"

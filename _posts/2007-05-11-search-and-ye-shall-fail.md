@@ -156,5 +156,3 @@ Europe.
 [Tim Huegdon]: http://nefariousdesigns.co.uk/ "Tim Huegdon's Nefarious Designs"
 [Ann McMeekin]:http://www.pixeldiva.co.uk/ "Ann McMeekin: pixeldiva"
 [RNIB]:        http://www.rnib.org.uk/
-
-*[RNIB]: Royal National Institute of the Blind

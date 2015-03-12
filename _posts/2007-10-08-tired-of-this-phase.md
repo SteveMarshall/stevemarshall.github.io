@@ -2,9 +2,9 @@
 layout: post
 title: Tired of this phase
 ---
-[Ben][Ben Ward] has publicly [challenged himself][Ben Tired of this
-phase] to not waste his pre-work mornings by sleeping through multiple
-alarms.
+[Ben][Ben Ward] has publicly [challenged
+himself][Ben Tired of this phase] to not waste his pre-work mornings by
+sleeping through multiple alarms.
 
 Whilst I don't intend to mimic his goal (I already get up at 6:30am
 thankyouver'much), I have a habit of not doing things (posting here,

@@ -3,9 +3,10 @@ layout: post
 title: "XAML: An insider's look out"
 ---
 [Zach][zach home] recently [posted his thoughts][zach xaml post] on
-Microsoft's XAML. As my main development environment is Microsoft's .Net
-Framework, I've had a chance to have a more in-depth look at what XAML
-is and does, and feel that I should clear some points up.
+Microsoft's XAML (eXtensible Application Markup Language). As my main
+development environment is Microsoft's .Net Framework, I've had a
+chance to have a more in-depth look at what XAML is and does, and feel
+that I should clear some points up.
 
 **Disclaimer**: I have no knowledge of Microsoft's true plans for XAML.
 These are simply *my observations* based on what I've read and seen on
@@ -140,8 +141,3 @@ Windows applications.
 [FSC]: http://www.fujitsu-siemens.com/ "Fujitsu Siemens Computers, the company I work for"
 [Mono]: http://www.mono-project.com/
 [.Net shared source]: http://www.microsoft.com/downloads/details.aspx?FamilyId=3A1C93FA-7462-47D0-8E56-8DD34C6292F0&displaylang=en
-
-*[XAML]: eXtensible Application Markup Language
-*[SDK]: Software Development Kit
-*[ECMA]: European Computer Manufacturers Association
-*[XUL]: XML User Interface Language

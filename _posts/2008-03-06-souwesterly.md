@@ -53,10 +53,10 @@ of this time?". I intend to be rather mercenary about this, in fact:
 last year and the year before, there were times when I stayed at a party
 for fear of not knowing anyone at another. That shan't happen this year.
 
-Further, I intend to be very much, to use an NLP phrase, "in the
-moment". Also, in a change to normal programming, I shall be drinking
-alcohol (although hopefully not to [the levels of excess][flickr me drunk]
-seen at [d.Construct 07][]).
+Further, I intend to be very much, to use an Neuro-Linguistic
+Programming phrase, "in the moment". Also, in a change to normal
+programming, I shall be drinking alcohol (although hopefully not to
+[the levels of excess][flickr me drunk] seen at [d.Construct 07][]).
 
 The biggest change, though, is that I shall, finally, be attending [SXSW
 music][SXSW 08 music]. The past two years, I've lusted after that extra
@@ -84,5 +84,3 @@ I'm looking forward to it all more than you can possibly imagine.
 [d.Construct 07]:   http://2007.dconstruct.com/
 [flickr me drunk]:  http://flickr.com/
 [Yahoo! Music UK]:  http://uk.music.yahoo.com/
-
-*[NLP]: Neuro-Linguistic Programming
