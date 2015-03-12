@@ -8,10 +8,14 @@ body {
     max-width:              420px;
 }
 body.grid {
-    background-image:       url(/assets/i/baseline.png);
-    background-size:        1px 24px;
+    background-image:       linear-gradient(
+                              #f0f0f0 1px,
+                              transparent 0
+                            );
+    background-position:    0 -1px;
+    background-size:        100% 24px;
     outline:                1px solid #f0f0f0;
-  }
+}
 
 a {
     color:                  #72ba00;
