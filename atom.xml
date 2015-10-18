@@ -15,7 +15,9 @@
   {% for post in site.posts %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="{{ site.url }}{{ post.url }}"/>{% if post.updated %}
+    {% if post.direct_link %}
+    <link href="{{ post.direct_link }}"/>{% else %}
+    <link href="{{ site.url }}{{ post.url }}"/>{% endif %}{% if post.updated %}
     <updated>{{ post.updated | date_to_xmlschema }}</updated>{% endif %}
     <published>{{ post.date | date_to_xmlschema }}</published>
     <id>{{ site.url }}{{ post.url }}</id>
