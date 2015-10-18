@@ -42,6 +42,17 @@ li p:last-child {
   margin-bottom:            0;
 }
 
+.repost blockquote {
+  font-style:               normal;
+  border-left:              1px solid #ccc;
+  margin-left:              -24px;
+  padding-left:             23px;
+}
+.repost blockquote em,
+.repost blockquote q {
+  font-style:               italic;
+}
+
 /* Correct for weird line-height of fixed-width fonts */
 code {
   line-height:              20px;
