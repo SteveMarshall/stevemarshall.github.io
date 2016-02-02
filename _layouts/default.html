@@ -15,16 +15,16 @@
     </head>
     <body>
       {{ content }}
-      <footer id="footer">
-        <p class="author vcard">
-          &mdash;<a href="http://twitter.com/SteveMarshall" class="url fn">@SteveMarshall</a>
+      <footer id="footer" class="author vcard">
+        <p>
+          &mdash;<a href="http://twitter.com/SteveMarshall">@SteveMarshall</a>
         </p>
         <p>
           &copy; {{ site.time | date: '%Y' }}
           {% if '/index.html' == page.url %}
-          {{ site.name }},
+          <span class="fn">{{ site.name }}</span>,
           {% else %}
-          <a href="/">{{ site.name }}</a>,
+          <a href="/" class="fn url">{{ site.name }}</a>,
           {% endif %}
           all rights reserved.
         </p>
