@@ -3,10 +3,10 @@ url: http://stevemarshall.com
 
 permalink: /journal/:title/
 exclude:
+- CNAME
 - Gemfile
 - Gemfile.lock
 - README.md
-- vendor
 
 safe: true
 lsi: false
