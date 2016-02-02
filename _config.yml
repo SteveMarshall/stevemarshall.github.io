@@ -3,23 +3,14 @@ url: http://stevemarshall.com
 
 permalink: /journal/:title/
 exclude:
+- CNAME
 - Gemfile
 - Gemfile.lock
 - README.md
-- vendor
 
 safe: true
 lsi: false
-highlighter: pygments
 
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - autolink
-    - no_intra_emphasis
-    - safelink
-    - smart
-    - space_after_headers
-    - strikethrough
-    - superscript
-    - tables
+kramdown:
+  input: GFM
+  hard_wrap: false
