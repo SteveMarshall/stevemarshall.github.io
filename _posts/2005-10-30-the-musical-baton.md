@@ -24,7 +24,7 @@ Anyway, here's the meat:
 I currently have 38.95GB of music on my PowerMac, which I manually copy
 to my iBook whenever the whim takes me. If iTunes is to be believed,
 that's about 20.2 days' worth of non-stop
-~~noise~~<ins>music</ins>. That's mostly made up of
+<del>noise</del><ins>music</ins>. That's mostly made up of
 192kbps-encoded mp3s, with the occasional non-conformist track from
 [other][Brad Sucks] [sources][MC Frontalot].
 
@@ -90,14 +90,14 @@ shuffle, how I love thee!), it's a bloody good choice, all the same:
 haunting, melancholy, ethereal, and, at the same time, soothing and
 refreshing.
 
-## ~~Five~~~~<ins>Six</ins>~~<ins>Seven</ins> songs I listen to a lot, or that mean a lot to me
+## <del>Five</del><del><ins>Six</ins></del><ins>Seven</ins> songs I listen to a lot, or that mean a lot to me
 
 Writing this list is incredibly difficult for me. As with most people
 who are passionate about music, pinning myself down to a handful of
 songs that I would find it hard to be without usually results in a list
-that's longer than my actual music collection. ~~Also, this list will
+that's longer than my actual music collection. <del>Also, this list will
 probably change to some degree if you were to ask me the same thing next
-week, or in a year's time, so don't hold me to it.~~ <ins>Make that
+week, or in a year's time, so don't hold me to it.</del> <ins>Make that
 'this list will change within a minute of me posting it'.</ins>
 
 That said, here goes (in no particular order):
@@ -123,7 +123,7 @@ album). I spent about 15 minutes just trying to decide which track from
 the album to list. Audioslave's music is hard-as-nails, but intricately
 crafted and with awesome vocals from Chris Cornell. I listen to this
 album at least once a week and, without fail, I end up
-~~screaming~~<ins>singing</ins> along.
+<del>screaming</del><ins>singing</ins> along.
 
 ### 'Whenever, Wherever, Whatever' by [Maxwell](http://www.musze.com/), from 'MTV Unplugged'
 

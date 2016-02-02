@@ -51,7 +51,7 @@ Without further ado, here are my lists:
 * [Ctrl+Alt+Del][]
 * [Sinfest][]
 * This very site, in the hopes that the Magic Blog-Post Færies will
-  have added content in my ~~laziness~~<ins>absence</ins>
+  have added content in my <del>laziness</del><ins>absence</ins>
 
 ## Four places I would rather be right now
 
