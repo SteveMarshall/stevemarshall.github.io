@@ -6,9 +6,9 @@ disable_meta: true
 ---
 
 If he ever grows up, Steve wants to be a mighty pirate. Until then, he
-has to make do with being a software architect. He's worked on travel
-APIs, military-grade software, sites for burgeoning rock bands,
-award-winning intranet portals, and a host of things between.
+has to make do with being a software architect. He’s worked on
+government services, travel APIs, sites for burgeoning rock bands,
+award-winning intranets, and a host of things between.
 
 When he’s not working or complaining [on
 Twitter](http://twitter.com/SteveMarshall), he can be found listening
