@@ -1,9 +1,4 @@
----
-permalink: about/
-layout: post
-title: About Steve Marshall
-disable_meta: true
----
+# About Steve Marshall
 
 If he ever grows up, Steve wants to be a mighty pirate. Until then, he
 has to make do with being a software architect. He’s worked on

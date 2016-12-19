@@ -1,10 +1,7 @@
 ---
-layout: post
-title: Steve Marshall
-disable_meta: true
 sitename_only: true
 ---
-
+# Steve Marshall
 
 <p id="pdf-version"><a href="/cv/Steve-Marshall.pdf">
   PDF version of Steve's CV

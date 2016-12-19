@@ -3,11 +3,9 @@ layout: default
 ---
 <article{% if page.direct_link %} class="repost"{% endif %}>
 <h1>{% include markdown_title.html title=page.title %}</h1>
-{% unless page.disable_meta %}
 <div class="meta">
   {{ page.date | date: "%A" }} the
   {% include long_date.html date=page.date include_year=true %}
 </div>
-{% endunless %}
 {{ content }}
 </article>
