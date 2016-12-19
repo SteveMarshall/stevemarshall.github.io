@@ -6,7 +6,6 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- README.md
 
 lsi: false
 
