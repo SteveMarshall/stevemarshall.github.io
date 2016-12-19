@@ -8,9 +8,14 @@ exclude:
 - Gemfile.lock
 - README.md
 
-safe: true
 lsi: false
 
 kramdown:
   input: GFM
   hard_wrap: false
+
+gems:
+- jekyll-default-layout
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-titles-from-headings
