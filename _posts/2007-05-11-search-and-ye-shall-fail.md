@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Search, and ye shall fail
 ---
 There's an accepted solution for channelled searching: offer a textbox

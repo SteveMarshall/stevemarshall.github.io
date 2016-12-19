@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Carson Workshops Summit
 ---
 Another month, another conference booking. This time, [<del>The Boy

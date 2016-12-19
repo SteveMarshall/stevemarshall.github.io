@@ -1,5 +1,4 @@
 ---
-layout: post
 title: All booked up for SXSWi
 ---
 So that's it - [Fatty][] and I are all booked up for our sojourn to the

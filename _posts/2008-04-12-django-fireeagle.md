@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "`django_fireeagle`"
 ---
 Just a brief note to mention that I uploaded [my Django Fire Eagle

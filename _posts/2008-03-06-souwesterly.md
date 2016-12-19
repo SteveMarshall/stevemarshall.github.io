@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sou’westerly
 ---
 Given that I'm sitting \[or was, at the time of writing---Ed.\] in a

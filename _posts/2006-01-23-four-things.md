@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Four Things
 ---
 Apparently, Ben's poked [another meme][Ben origin] in my direction.

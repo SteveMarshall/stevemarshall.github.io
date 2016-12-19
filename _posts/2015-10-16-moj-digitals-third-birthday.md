@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "MOJ Digital’s third birthday: 3 years and 24 million lines of code"
 direct_link: https://mojdigital.blog.gov.uk/2015/10/16/moj-digitals-third-birthday-3-years-and-24-million-lines-of-code/
 ---

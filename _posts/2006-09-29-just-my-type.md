@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Just my type
 ---
 Last December, [Rich Rutter][] announced [The Elements of Typographic

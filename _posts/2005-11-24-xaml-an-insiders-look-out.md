@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "XAML: An insider's look out"
 ---
 [Zach][zach home] recently [posted his thoughts][zach xaml post] on

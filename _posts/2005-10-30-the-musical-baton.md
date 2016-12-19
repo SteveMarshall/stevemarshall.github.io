@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The musical baton
 ---
 Back when I was still known as Stevie 'no blog' Marshall, [Ben][] passed

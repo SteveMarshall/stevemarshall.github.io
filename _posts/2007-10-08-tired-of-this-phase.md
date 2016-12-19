@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tired of this phase
 ---
 [Ben][Ben Ward] has publicly [challenged

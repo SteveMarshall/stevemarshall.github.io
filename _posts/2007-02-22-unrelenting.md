@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Unrelenting
 ---
 Where did the last six months go?

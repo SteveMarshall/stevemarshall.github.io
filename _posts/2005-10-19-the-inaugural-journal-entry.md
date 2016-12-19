@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The inaugural journal entry…
 ---
 Well, it's finally here!

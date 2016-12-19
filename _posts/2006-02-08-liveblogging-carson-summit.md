@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ! '''Liveblogging'' Carson Summit'
 ---
 I'm at [Carson Summit][carson] in London today.

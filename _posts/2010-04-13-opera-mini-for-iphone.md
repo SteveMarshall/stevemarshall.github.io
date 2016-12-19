@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Opera Mini for iPhone
 ---
 

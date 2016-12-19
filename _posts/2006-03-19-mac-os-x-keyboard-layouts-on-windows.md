@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mac OS X Keyboard Layouts on Windows
 ---
 A while back, [Ben][] was trying to replicate [certain keyboard niceties

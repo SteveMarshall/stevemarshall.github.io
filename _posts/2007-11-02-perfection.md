@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Perfection
 ---
 > Perfection is achieved, not when there is nothing more to add, but

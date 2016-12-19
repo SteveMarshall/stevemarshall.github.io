@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Shared Parental Leave: a dad’s experience"
 direct_link: https://civilservice.blog.gov.uk/2016/05/23/shared-parental-leave-a-dads-experience/
 ---

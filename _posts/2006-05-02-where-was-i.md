@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Where was I?
 ---
 Apparently, [Elly tagged me][Elly source] with this 'where was I?' meme,

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "`HTTPSConnection`"
 ---
 So apparently I now write Python.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What's in your folder of shame?
 ---
 I just noticed [<cite>Jeff Veen</cite>'s post about his "folder of

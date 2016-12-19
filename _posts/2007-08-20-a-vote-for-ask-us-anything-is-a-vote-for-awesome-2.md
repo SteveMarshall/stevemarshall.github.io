@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A vote for Ask Us Anything is a vote for awesome
 ---
 It would appear that the [SXSW08][] [panel picker][] is live. [James][],
