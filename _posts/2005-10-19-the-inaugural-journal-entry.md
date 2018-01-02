@@ -14,8 +14,8 @@ live, nascentguruism wouldn't be half the site it is now. Thanks Ben, I
 owe you, big-style.
 
 So, welcome to nascentguruism, one and all. If you're interested in who
-I am or how the site is made, then you probably want the [about][] and
-[colophon][] pages, respectively.
+I am or how the site is made, then you probably want the
+[about][] page.
 
 A word of warning: the site is still very much a work in progress. I'm
 going to be tweaking and sprucing up pretty much anything I can think of
@@ -36,5 +36,4 @@ auto` and `left` and `right` positions, then that would be nice.
 
 [Ben]: http://ben-ward.co.uk/
 [about]: /about/
-[colophon]: /colophon/
 [email]: /about/#contact
