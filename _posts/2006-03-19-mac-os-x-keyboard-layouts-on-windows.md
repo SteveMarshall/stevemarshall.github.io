@@ -92,6 +92,6 @@ I've not found any program that successfully achieves that. I'll let you
 know when I do.
 
 [msklc]: http://www.microsoft.com/globaldev/tools/msklc.mspx
-[macosuk keyboard]: http://nascentguruism.com/files/posts/mac-os-x-keyboard-layouts-on-windows/MacOSUK.zip "Mac OS X keyboard layout for Windows"
+[macosuk keyboard]: /files/posts/mac-os-x-keyboard-layouts-on-windows/MacOSUK.zip "Mac OS X keyboard layout for Windows"
 [AutoHotKey]: http://www.autohotkey.com/
-[ahk chords]: http://nascentguruism.com/files/posts/mac-os-x-keyboard-layouts-on-windows/AHKChords.txt "Mac OS X accent chords for AutoHotKey on Windows"
+[ahk chords]: /files/posts/mac-os-x-keyboard-layouts-on-windows/AHKChords.txt "Mac OS X accent chords for AutoHotKey on Windows"
