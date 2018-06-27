@@ -7,9 +7,6 @@ sitename_only: true
 [Personal website](http://stevemarshall.com/)<span> / </span>
 [GitHub profile](http://github.com/SteveMarshall)
 
-Summary
--------
-
 Software developer and architect with experience designing, building,
 and shipping large-scale internationalised applications and websites.
 
@@ -18,8 +15,7 @@ the web extends into our everyday lives, and is a
 [BCS](http://www.bcs.org) and [IITT](http://iitt.org.uk/) certified
 trainer.
 
-Employment history
-------------------
+## Employment history
 
 ### Head of Hosting at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -157,8 +153,7 @@ award-winning bespoke intranet portal software (one of Nielsen-Norman
 Group's 'Ten Best Intranets' of 2003), along with other key business
 systems.
 
-Notable personal projects
--------------------------
+## Notable personal projects
 
 ### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
 
@@ -187,8 +182,7 @@ habits, [Mostly Final](http://mostlyfinal.com/), a tool for
 collaborating on designs, and various other projects. Lead development
 of fort infrastructure automation tools.
 
-Interests
----------
+## Interests
 
 - *Technology:* Loves technology, and is a [frequent
   attendee](http://lanyrd.com/profile/stevemarshall/)---and occasional
@@ -201,8 +195,7 @@ Interests
 - *Videogames:* Avid gamer with a particular love of RPG and adventure
   games.
 
-Education and professional training
------------------------------------
+## Education and professional training
 
 ### Institute Certified Training Professional from [<abbr title="British Computer Society">BCS</abbr>](http://bcs.org/) and [<abbr title="Institute for IT Trainers">IITT</abbr>](http://iitt.org.uk)
 
