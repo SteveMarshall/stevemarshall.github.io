@@ -19,18 +19,20 @@ trainer.
 
 ### Head of Hosting at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
-<span class="meta"><time datetime="2017-12-01">December
-2018</time>--Present</span>
+<span><time datetime="2017-12-01">December 2018</time>--Present</span>
+{: .meta}
 
 ### Head of Technical Architecture and Software Development at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
-<span class="meta"><time datetime="2017-01-01">January
+<span><time datetime="2017-01-01">January
 2017</time>--<time datetime="2018-04-25">April 2018</time></span>
+{: .meta}
 
 ### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
-<span class="meta"><time datetime="2014-09-29">September
+<span><time datetime="2014-09-29">September
 2014</time>--<time datetime="2016-12-31">December 2016</time></span>
+{: .meta}
 
 Responsible for all new public-facing digital services related to the
 [National Offender Management
@@ -43,8 +45,9 @@ reduction of duplication.
 
 ### Technical Architect at [Tizaro Supply](http://tizaro.com)
 
-<span class="meta"><time datetime="2014-03-31">March
+<span><time datetime="2014-03-31">March
 2014</time>--<time datetime="2014-06-30">July</time></span>
+{: .meta}
 
 Improved infrastructure resilience and deployment processes of
 industrial supply startup. Produced open source image processing
@@ -52,8 +55,9 @@ tools for cloud deployment.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
-<span class="meta"><time datetime="2012-12-07">December
+<span><time datetime="2012-12-07">December
 2012</time>--<time datetime="2014-03-14">March 2014</time></span>
+{: .meta}
 
 Responsibility for the design of all APIs, user interfaces, and
 products across the whole of Expedia Affiliate Network; designing from
@@ -78,8 +82,9 @@ public speaking.
 
 ### Senior software developer at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
-<span class="meta"><time datetime="2011-10-17">October
+<span><time datetime="2011-10-17">October
 2011</time>--<time datetime="2012-12-07">December 2012</time></span>
+{: .meta}
 
 - Led introduction of devops practices across development teams,
   introduced the use of Chef and Vagrant to build consistent
@@ -91,8 +96,9 @@ public speaking.
 
 ### Senior web developer at [Yahoo!](http://yahoo.com/)
 
-<span class="meta"><time datetime="2010-01-01">January
+<span><time datetime="2010-01-01">January
 2010</time>--<time datetime="2011-09-21">September 2011</time></span>
+{: .meta}
 
 - Designed front-end architecture for, and led development of, new
   global Yahoo! Maps application.
@@ -120,8 +126,9 @@ within Yahoo!.
 
 ### Web developer at [Yahoo!](http://yahoo.com/)
 
-<span class="meta"><time datetime="2006-10-30">October
+<span><time datetime="2006-10-30">October
 2006</time>--<time datetime="2009-12-31">December 2009</time></span>
+{: .meta}
 
 Worked on, and later led, front-end development of European
 entertainment websites, including development and maintenance of
@@ -134,8 +141,9 @@ launch.
 
 ### Software engineer at [Systematic Software Engineering](http://www.systematic.com/)
 
-<span class="meta"><time datetime="2006-06-05">June 2006</time>--<time
+<span><time datetime="2006-06-05">June 2006</time>--<time
 datetime="2006-10-23">October 2006</time></span>
+{: .meta}
 
 Designed a military standards management workflow engine for clients
 including <abbr title="North Atlantic Treaty Organisation">NATO</abbr>,
@@ -144,8 +152,9 @@ including <abbr title="North Atlantic Treaty Organisation">NATO</abbr>,
 
 ### Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers)
 
-<span class="meta"><time datetime="2002-07-15">July 2002</time>--<time
+<span><time datetime="2002-07-15">July 2002</time>--<time
 datetime="2006-05-26">May 2006</time></span>
+{: .meta}
 
 Developed and maintained the public web sites (including
 fujitsu-siemens.com and 30+ international variants) and the
@@ -199,9 +208,10 @@ of fort infrastructure automation tools.
 
 ### Institute Certified Training Professional from [<abbr title="British Computer Society">BCS</abbr>](http://bcs.org/) and [<abbr title="Institute for IT Trainers">IITT</abbr>](http://iitt.org.uk)
 
-<span class="meta"><time datetime="2008-05-19">May 2008</time></span>
-
+<span><time datetime="2008-05-19">May 2008</time></span>
+{: .meta}
 ### BSc Computer Science & Engineering with First Class Honours from [University of Surrey](http://surrey.ac.uk/)
 
-<span class="meta"><time datetime="2000-09-04">September
+<span><time datetime="2000-09-04">September
 2000</time>--<time datetime="2004-06-18">June 2004</time></span>
+{: .meta}

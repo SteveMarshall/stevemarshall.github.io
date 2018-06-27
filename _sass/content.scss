@@ -14,6 +14,7 @@ h3 {
     line-height:            23px;
     margin-bottom:          24px;
     padding-top:            1px;
+    text-indent:            0;
 }
 
 p,
@@ -25,6 +26,9 @@ ul {
 p + p {
     margin-top:             -24px;
     text-indent:            24px;
+}
+.meta + p {
+    text-indent:            0;
 }
 blockquote p + footer {
   margin-top:               -24px;
