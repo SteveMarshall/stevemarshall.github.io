@@ -21,10 +21,20 @@ trainer.
 Employment history
 ------------------
 
+### Head of Hosting at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
+
+<span class="meta"><time datetime="2017-12-01">December
+2018</time>--Present</span>
+
+### Head of Technical Architecture and Software Development at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
+
+<span class="meta"><time datetime="2017-01-01">January
+2017</time>--<time datetime="2018-04-25">April 2018</time></span>
+
 ### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
 <span class="meta"><time datetime="2014-09-29">September
-2014</time>--Present</span>
+2014</time>--<time datetime="2016-12-31">December 2016</time></span>
 
 Responsible for all new public-facing digital services related to the
 [National Offender Management
