@@ -206,12 +206,13 @@ of fort infrastructure automation tools.
 
 ## Education and professional training
 
-### Institute Certified Training Professional from [<abbr title="British Computer Society">BCS</abbr>](http://bcs.org/) and [<abbr title="Institute for IT Trainers">IITT</abbr>](http://iitt.org.uk)
+- Institute Certified Training Professional from [<abbr title="British Computer Society">BCS</abbr>](http://bcs.org/) and [<abbr title="Institute for IT Trainers">IITT</abbr>](http://iitt.org.uk)
 
-<span><time datetime="2008-05-19">May 2008</time></span>
-{: .meta}
-### BSc Computer Science & Engineering with First Class Honours from [University of Surrey](http://surrey.ac.uk/)
+  <span><time datetime="2008-05-19">May 2008</time></span>
+  {: .meta}
 
-<span><time datetime="2000-09-04">September
-2000</time>--<time datetime="2004-06-18">June 2004</time></span>
-{: .meta}
+- BSc Computer Science & Engineering with First Class Honours from [University of Surrey](http://surrey.ac.uk/)
+
+  <span><time datetime="2000-09-04">September
+  2000</time>--<time datetime="2004-06-18">June 2004</time></span>
+  {: .meta}
