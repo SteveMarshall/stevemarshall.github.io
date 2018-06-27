@@ -212,7 +212,3 @@ Education and professional training
 
 <span class="meta"><time datetime="2000-09-04">September
 2000</time>--<time datetime="2004-06-18">June 2004</time></span>
-
-- Dissertation: 'On Secure Grid Computing in a Large Enterprise
-  Corporate Environment'
-- Awarded 'Agilent Technologies Prize' for best overall performance
