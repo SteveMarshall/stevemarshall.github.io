@@ -6,6 +6,7 @@ sitename_only: true
 [Email](mailto:cv@nascentguruism.com)<span> / </span>
 [Personal website](http://stevemarshall.com/)<span> / </span>
 [GitHub profile](http://github.com/SteveMarshall)
+{: .meta}
 
 Software developer and architect with experience designing, building,
 and shipping large-scale internationalised applications and websites.

@@ -5,14 +5,16 @@ h1 {
 }
 h2 {
   font-size:                18px;
+  margin-top:               24px;
 }
 h3 {
   font-size:                inherit;
+  margin-top:               24px;
 }
 .meta {
     color:                  #aaa;
     line-height:            23px;
-    margin-bottom:          24px;
+    margin-bottom:          0;
     padding-top:            1px;
     text-indent:            0;
 }
@@ -20,15 +22,20 @@ h3 {
 p,
 ol,
 ul {
-    margin:                 24px 0;
+    margin:                 24px 0 0;
     position:               relative;
 }
 p + p {
-    margin-top:             -24px;
     text-indent:            24px;
+    margin-top:             0;
 }
-.meta + p {
+.meta + p,
+.meta + ul {
     text-indent:            0;
+    margin-top:             0;
+}
+p + .meta {
+    margin-top:             0;
 }
 li p:first-child {
   margin-top:               0;
