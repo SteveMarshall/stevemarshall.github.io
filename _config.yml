@@ -13,7 +13,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-gems:
+plugins:
 - jekyll-default-layout
 - jekyll-optional-front-matter
 - jekyll-readme-index
