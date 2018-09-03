@@ -194,16 +194,16 @@ of fort infrastructure automation tools.
 
 ## Interests
 
-- *Technology:* Loves technology, and is a [frequent
-  attendee](http://lanyrd.com/profile/stevemarshall/)---and occasional
-  speaker---at various conferences.
-- *[Photography]
-  (http://www.flickr.com/photos/steviebm/sets/72157625921906399/):*
+- *Conferences:* A frequent attendee and speaker at various
+  conferences. Notable talks include [“We Can Mirror It for You
+  Wholesale”](https://vimeo.com/108353428) at [WXG
+  2014](https://wxg.co.uk) and [“Don't Touch the
+  Monolith”](https://www.youtube.com/watch?v=47vCm9FA1Lg) at [O'Reilly
+  Software Architecture London
+  2016](https://conferences.oreilly.com/software-architecture)
+- *[Photography](http://www.flickr.com/photos/steviebm/sets/72157625921906399/):*
   Sometime semi-pro photojournalist and music photographer,
   published on Yahoo! Music and in various independent print magazines.
-- *Rock climbing:* Climber with over 10 years’ experience.
-- *Videogames:* Avid gamer with a particular love of RPG and adventure
-  games.
 
 ## Education and professional training
 
