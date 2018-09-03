@@ -158,30 +158,25 @@ systems.
 
 ### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
 
-Built the core of a Python library to allow programmatic access to
+Built a Python library to allow programmatic access to
 [<abbr title="Moving Picture Experts Group">MPEG</abbr> 4
-container](http://en.wikipedia.org/wiki/MPEG-4_Part_14) files, a
-project requiring reverse-engineering of other libraries and <abbr
-title="Moving Picture Experts Group">MPEG</abbr> standards, low-level
-manipulation of large (multi-gigabyte) files, and complex data
-structures.
+container](http://en.wikipedia.org/wiki/MPEG-4_Part_14) files. This
+involved reverse-engineering of other libraries and <abbr title="Moving
+Picture Experts Group">MPEG</abbr> standards, low-level manipulation of
+multi-gigabyte files, and complex data structures.
 
 ### [Spacelog](http://spacelog.org/) and [/dev/forts](http://devfort.com/)
 
-Worked as front- and back-end developer and data architect on Spacelog,
-a site for exploring the stories of early space exploration from the
-original transcripts. Spacelog is a product of [/dev/fort
-5](http://devfort.com/cohort/5/), an event where a team of designers
-and developers cut themselves off from the world (in a fort!) to work
-on new ideas.
+Worked on Spacelog, a site for exploring the stories of early space
+exploration from the original transcripts. Spacelog is a product of
+[/dev/fort 5](http://devfort.com/cohort/5/), an event where a team of
+designers and developers cut themselves off from the world to work on
+new ideas.
 
 Also took part in /dev/forts [2](http://devfort.com/cohort/2/),
 [4](http://devfort.com/cohort/4/), [7](http://devfort.com/cohort/7/),
-and [9](http://devfort.com/cohort/9/) which resulted in [Be
-Habitual](http://behabitual.com/), a tool to help people form new
-habits, [Mostly Final](http://mostlyfinal.com/), a tool for
-collaborating on designs, and various other projects. Lead development
-of fort infrastructure automation tools.
+and [9](http://devfort.com/cohort/9/), and led development of [fort
+infrastructure automation tools](https://vimeo.com/108353428).
 
 ## Interests
 
