@@ -50,10 +50,6 @@ reduction of duplication.
 2014</time>--<time datetime="2014-06-30">July</time></span>
 {: .meta}
 
-Improved infrastructure resilience and deployment processes of
-industrial supply startup. Produced open source image processing
-tools for cloud deployment.
-
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
 <span><time datetime="2012-12-07">December
@@ -145,11 +141,6 @@ launch.
 <span><time datetime="2006-06-05">June 2006</time>--<time
 datetime="2006-10-23">October 2006</time></span>
 {: .meta}
-
-Designed a military standards management workflow engine for clients
-including <abbr title="North Atlantic Treaty Organisation">NATO</abbr>,
-<abbr title="Defense Information Systems Agency">DISA</abbr>, and the
-<abbr title="Ministry of Defence">MoD</abbr>.
 
 ### Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers)
 
