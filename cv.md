@@ -35,14 +35,22 @@ trainer.
 2014</time>--<time datetime="2016-12-31">December 2016</time></span>
 {: .meta}
 
-Responsible for all new public-facing digital services related to the
-[National Offender Management
-Service](https://www.gov.uk/government/organisations/national-offender-m
-anagement-service). Leading integration of [Prison Visits
-Booking](https://www.gov.uk/prison-visits) service with legacy
-government backend. Also working on team-wide infrastructure design,
-focussed particularly on continuous delivery across projects and
-reduction of duplication.
+Responsible for **technical design and development of digital
+services** for [NOMS](https://www.gov.uk/government/organisations/national-offender-management-service).
+
+Led development of [Send money to someone in
+prison](https://www.gov.uk/send-prisoner-money) service from inception
+to [public
+beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works),
+and integration of [Visit someone in
+prison](https://www.gov.uk/prison-visits) service with legacy prison
+service backend.
+
+**Influenced senior stakeholders** to support delivery of modern
+technology, **set technical direction for suppliers** to ensure they
+delivered systems the way we required, and **updated departmental
+guidance and standards** to follow modern practices. Also worked on
+infrastructure and operations tools and processes for all of MOJ.
 
 ### Technical Architect at Tizaro Supply
 
