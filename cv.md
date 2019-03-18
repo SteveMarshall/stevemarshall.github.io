@@ -23,6 +23,23 @@ trainer.
 <span><time datetime="2017-12-01">December 2018</time>--Present</span>
 {: .meta}
 
+**Set [the MOJ's strategy direction for software
+hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
+including **managing and providing technical and strategic direction for
+5 in-house infrastructure teams**, comprising ~70 staff, as well as
+numerous supplier teams. Led these teams in **developing the MOJ's
+hosting infrastructure platforms** to ensure we can support both
+modern, cloud-native and legacy services appropriately.
+
+**Responsible for ongoing operational reliability of ~500 services**,
+both staff and citizen facing. **Ensuring delivery of of high quality
+infrastructure** services by coaching and mentoring product teams.
+**Managing supplier delivery to ensure good value for money** and follow
+current government standards and guidance.
+
+**Managing a budget of ~£90m** of public money, including staff costs and
+**contracts with 30 suppliers of various sizes**.
+
 ### Head of Technical Architecture and Software Development at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
 <span><time datetime="2017-01-01">January
@@ -49,8 +66,8 @@ service backend.
 **Influenced senior stakeholders** to support delivery of modern
 technology, **set technical direction for suppliers** to ensure they
 delivered systems the way we required, and **updated departmental
-guidance and standards** to follow modern practices. Also worked on
-infrastructure and operations tools and processes for all of MOJ.
+guidance and standards** to follow modern practices. **Improved
+infrastructure and operations processes and tools** for all of MOJ.
 
 ### Technical Architect at Tizaro Supply
 
@@ -58,8 +75,8 @@ infrastructure and operations tools and processes for all of MOJ.
 2014</time>--<time datetime="2014-06-30">July 2014</time></span>
 {: .meta}
 
-Led infrastructure architecture for an industrial supply startup which
-ultimately ran out of investment.
+Led infrastructure implementation for an industrial supply startup
+which ultimately ran out of investment.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
@@ -70,7 +87,7 @@ ultimately ran out of investment.
 Responsible for **setting and maintaining standards** for all APIs and
 user interfaces across Expedia Affiliate Network. **Understood clients'
 needs** and balanced these against technical constraints, allowed
-Expedia Affiliate Network to **support a $10m/year partner network**.
+Expedia Affiliate Network to **support a $2bn/year partner network**.
 
 Also acted as *Chief Developer Evangelist* (July 2012 onwards),
 responsible for **community outreach**. Organised events with diverse
