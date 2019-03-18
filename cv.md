@@ -97,29 +97,17 @@ public speaking.
 2010</time>--<time datetime="2011-09-21">September 2011</time></span>
 {: .meta}
 
-- Designed front-end architecture for, and led development of, new
-  global Yahoo! Maps application.
-- Designed architecture for, and led portions of development of, a
-  project to introduce search-driven content recommendations to Yahoo!
-  News and Movies in the US, resulting in large increases in traffic
-  and market-share for Yahoo! Search.
+- Designed front-end architecture and led development of Yahoo! Maps and
+  content recommendation in Yahoo! News and Movies.
 - Led development of a mobile front-end for Yahoo! Local.
-- Led handover of Yahoo! Europe Entertainment properties to Indian
-  development team.
+- Worked on developer outreach, representing Yahoo! at
+  numerous developer conferences and playing an active role in
+  organising and running external-facing hack days in 2007 and 2009.
 
-Projects involved mentoring other developers, working with internal and
-external clients to finalise requirements, architecting cross-product
-tools and modules, setting standards for multi-disciplinary teams,
-working with local and remote teams, designing development environments
-and processes, improving existing tools, and advising clients and
-designers on technical limitations.
-
-Played an active role in running Yahoo! Open Hack London events in 2007
-and 2009, including running front-of-house during the awards ceremony
-in 2009. Further supported Yahoo! Developer Network's community
-outreach efforts by representing Yahoo! at numerous developer
-conferences. Ran various internal training courses for other developers
-within Yahoo!.
+Projects involved mentoring and training other developers, working with
+clients to finalise requirements, architecting tools, setting standards
+for multi-disciplinary teams, working with local and remote teams,
+and designing development environments and processes.
 
 ### Web developer at [Yahoo!](http://yahoo.com/)
 
@@ -127,14 +115,9 @@ within Yahoo!.
 2006</time>--<time datetime="2009-12-31">December 2009</time></span>
 {: .meta}
 
-Worked on, and later led, front-end development of European
-entertainment websites, including development and maintenance of
-Movies, Music, Games, and Videogames.
-
-Led development of complete re-implementation of Yahoo! TV for Europe
-including a major rework of the TV listings services, resulting in a
-week-on-week doubling of traffic for the first three months after
-launch.
+Worked on, and later led, development and maintenance of European
+Movies, Music, Games, and Videogames sites, including their ultimate
+handover to development team in India.
 
 ### Software engineer at [Systematic Software Engineering](http://www.systematic.com/)
 
@@ -151,8 +134,7 @@ datetime="2006-05-26">May 2006</time></span>
 Developed and maintained the public web sites (including
 fujitsu-siemens.com and 30+ international variants) and the
 award-winning bespoke intranet portal software (one of Nielsen-Norman
-Group's 'Ten Best Intranets' of 2003), along with other key business
-systems.
+Group's 'Ten Best Intranets' of 2003), among other systems.
 
 ## Notable personal projects
 
