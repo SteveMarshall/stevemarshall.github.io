@@ -59,26 +59,15 @@ ultimately ran out of investment.
 2012</time>--<time datetime="2014-03-14">March 2014</time></span>
 {: .meta}
 
-Responsibility for the design of all APIs, user interfaces, and
-products across the whole of Expedia Affiliate Network; designing from
-scratch or supporting and reviewing other teams’ design efforts, and
-providing standards and guidelines they must adhere to.
+Responsible for **setting and maintaining standards** for all APIs and
+user interfaces across Expedia Affiliate Network. **Understood clients'
+needs** and balanced these against technical constraints, allowed
+Expedia Affiliate Network to **support a $10m/year partner network**.
 
-Introduced "developer experience" design, applying user experience,
-information architecture, and human factors design techniques to APIs
-and their surrounding ecosystems. Mentoring interface designers on the
-design of APIs, introducing RESTful API design across development
-teams, advising partners on improving conversion with good UI design,
-and delivering API and user interface designs for all systems.
-
-Also acted as *Chief Developer Evangelist* (since July 2012),
-responsible for community outreach. Curated and ran frequent events,
-with speakers and attendees from technology, scientific, and design
-backgrounds. Events received much acclaim and included speakers such as
-[Dr Jack Cohen](http://drjackcohen.com) and [Maria Smith of Studio
-Weave](http://www.studioweave.com). Represented Expedia at various
-events, including Yahoo! Hack Europe 2013. Mentored colleagues in
-public speaking.
+Also acted as *Chief Developer Evangelist* (July 2012 onwards),
+responsible for **community outreach**. Organised events with diverse
+speaker lineups and attendees. **Represented Expedia at various events**
+and **mentored colleagues** in public speaking.
 
 ### Prior roles
 
