@@ -44,11 +44,14 @@ government backend. Also working on team-wide infrastructure design,
 focussed particularly on continuous delivery across projects and
 reduction of duplication.
 
-### Technical Architect at [Tizaro Supply](http://tizaro.com)
+### Technical Architect at Tizaro Supply
 
 <span><time datetime="2014-03-31">March
-2014</time>--<time datetime="2014-06-30">July</time></span>
+2014</time>--<time datetime="2014-06-30">July 2014</time></span>
 {: .meta}
+
+Led infrastructure architecture for an industrial supply startup which
+ultimately ran out of investment.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
