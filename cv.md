@@ -80,35 +80,18 @@ Weave](http://www.studioweave.com). Represented Expedia at various
 events, including Yahoo! Hack Europe 2013. Mentored colleagues in
 public speaking.
 
-### Senior software developer at [Expedia Affiliate Network](http://expediaaffiliate.com/)
+### Prior roles
 
-<span><time datetime="2011-10-17">October
-2011</time>--<time datetime="2012-12-07">December 2012</time></span>
-{: .meta}
-
-### Senior web developer at [Yahoo!](http://yahoo.com/)
-
-<span><time datetime="2010-01-01">January
-2010</time>--<time datetime="2011-09-21">September 2011</time></span>
-{: .meta}
-
-### Web developer at [Yahoo!](http://yahoo.com/)
-
-<span><time datetime="2006-10-30">October
-2006</time>--<time datetime="2009-12-31">December 2009</time></span>
-{: .meta}
-
-### Software engineer at [Systematic Software Engineering](http://www.systematic.com/)
-
-<span><time datetime="2006-06-05">June 2006</time>--<time
-datetime="2006-10-23">October 2006</time></span>
-{: .meta}
-
-### Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers)
-
-<span><time datetime="2002-07-15">July 2002</time>--<time
-datetime="2006-05-26">May 2006</time></span>
-{: .meta}
+- Senior software developer at [Expedia Affiliate Network](http://expediaaffiliate.com/) (<time datetime="2011-10-17">October
+2011</time>--<time datetime="2012-12-07">December 2012</time>)
+- Senior web developer at [Yahoo!](http://yahoo.com/) (<time datetime="2010-01-01">January
+2010</time>--<time datetime="2011-09-21">September 2011</time>)
+- Web developer at [Yahoo!](http://yahoo.com/) (<time datetime="2006-10-30">October
+2006</time>--<time datetime="2009-12-31">December 2009</time>)
+- Software engineer at [Systematic Software Engineering](http://www.systematic.com/) (<time datetime="2006-06-05">June 2006</time>--<time
+datetime="2006-10-23">October 2006</time>)
+- Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers) (<time datetime="2002-07-15">July 2002</time>--<time
+datetime="2006-05-26">May 2006</time>)
 
 ## Notable personal projects
 
