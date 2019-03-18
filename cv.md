@@ -83,41 +83,17 @@ public speaking.
 2011</time>--<time datetime="2012-12-07">December 2012</time></span>
 {: .meta}
 
-- Led introduction of devops practices across development teams,
-  introduced the use of Chef and Vagrant to build consistent
-  environments across development, QA, and production. Developed a
-  suite of continuous deployment infrastructure tools.
-- Mentored other developers in use of *nix environments.
-- Reduced security vulnerabilities on white-label travel application
-  and led front-end development on application redesign.
-
 ### Senior web developer at [Yahoo!](http://yahoo.com/)
 
 <span><time datetime="2010-01-01">January
 2010</time>--<time datetime="2011-09-21">September 2011</time></span>
 {: .meta}
 
-- Designed front-end architecture and led development of Yahoo! Maps and
-  content recommendation in Yahoo! News and Movies.
-- Led development of a mobile front-end for Yahoo! Local.
-- Worked on developer outreach, representing Yahoo! at
-  numerous developer conferences and playing an active role in
-  organising and running external-facing hack days in 2007 and 2009.
-
-Projects involved mentoring and training other developers, working with
-clients to finalise requirements, architecting tools, setting standards
-for multi-disciplinary teams, working with local and remote teams,
-and designing development environments and processes.
-
 ### Web developer at [Yahoo!](http://yahoo.com/)
 
 <span><time datetime="2006-10-30">October
 2006</time>--<time datetime="2009-12-31">December 2009</time></span>
 {: .meta}
-
-Worked on, and later led, development and maintenance of European
-Movies, Music, Games, and Videogames sites, including their ultimate
-handover to development team in India.
 
 ### Software engineer at [Systematic Software Engineering](http://www.systematic.com/)
 
@@ -130,11 +106,6 @@ datetime="2006-10-23">October 2006</time></span>
 <span><time datetime="2002-07-15">July 2002</time>--<time
 datetime="2006-05-26">May 2006</time></span>
 {: .meta}
-
-Developed and maintained the public web sites (including
-fujitsu-siemens.com and 30+ international variants) and the
-award-winning bespoke intranet portal software (one of Nielsen-Norman
-Group's 'Ten Best Intranets' of 2003), among other systems.
 
 ## Notable personal projects
 
