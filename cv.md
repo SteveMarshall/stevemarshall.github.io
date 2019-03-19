@@ -45,6 +45,20 @@ and guidance.
 2017</time>--<time datetime="2018-04-25">April 2018</time></span>
 {: .meta}
 
+**Leading on engineering staff management, recruitment, culture, and
+standards** for the Ministry of Justice. **Responsible for ~150
+engineers** (technical architects, software developers, and operations
+engineers) **across 4 locations and 5 organisations**.
+
+**Improved hiring procedures**, ultimately increasing quality of
+candidates and diversity of engineering staff. **Improved engineering
+quality** by introducing organisation-wide standards, providing
+embedded, long-term **coaching for under-performing teams** and
+individuals, and recruiting technical leads across the organisation.
+
+**Successfully recruited my replacement** who has taken on the role and
+made it their own.
+
 ### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
 <span><time datetime="2014-09-29">September
