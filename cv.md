@@ -23,22 +23,21 @@ trainer.
 <span><time datetime="2017-12-01">December 2018</time>--Present</span>
 {: .meta}
 
-**Set [the MOJ's strategy direction for software
+**Responsible for [the Ministry of Justice's strategy for software
 hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
-including **managing and providing technical and strategic direction for
-5 in-house infrastructure teams**, comprising ~70 staff, as well as
-numerous supplier teams. Led these teams in **developing the MOJ's
-hosting infrastructure platforms** to ensure we can support both
-modern, cloud-native and legacy services appropriately.
+managing a **budget of ~£90m** of public money, and **responsible for
+operational reliability of ~500 services underpinning the UK's justice
+system** including courts, prisons, and legal aid.
 
-**Responsible for ongoing operational reliability of ~500 services**,
-both staff and citizen facing. **Ensuring delivery of of high quality
-infrastructure** services by coaching and mentoring product teams.
-**Managing supplier delivery to ensure good value for money** and follow
-current government standards and guidance.
+**Leading ~70 staff in 5 teams across 3 locations**, along with various
+supplier teams, **developing the MOJ's hosting infrastructure
+platforms** for both modern, cloud-native and legacy services, and
+leading the MOJ's move to public cloud hosting.
 
-**Managing a budget of ~£90m** of public money, including staff costs and
-**contracts with 30 suppliers of various sizes**.
+**Ensuring delivery of of high quality infrastructure** services by
+coaching and mentoring product teams. **Managing ~30 suppliers' work to
+ensure good value for money** and follow current government standards
+and guidance.
 
 ### Head of Technical Architecture and Software Development at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -53,7 +52,14 @@ current government standards and guidance.
 {: .meta}
 
 Responsible for **technical design and development of digital
-services** for [NOMS](https://www.gov.uk/government/organisations/national-offender-management-service).
+services** for [the UK's National Offender Management
+Service](https://www.gov.uk/government/organisations/national-offender-management-service).
+
+**Influenced senior stakeholders** to support delivery of modern
+technology, **set technical direction for suppliers** to ensure they
+delivered systems the way we required, and **updated departmental
+guidance and standards** to follow modern practices. **Improved
+infrastructure and operations processes and tools** for all of MOJ.
 
 Led development of [Send money to someone in
 prison](https://www.gov.uk/send-prisoner-money) service from inception
@@ -62,12 +68,6 @@ beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works)
 and integration of [Visit someone in
 prison](https://www.gov.uk/prison-visits) service with legacy prison
 service backend.
-
-**Influenced senior stakeholders** to support delivery of modern
-technology, **set technical direction for suppliers** to ensure they
-delivered systems the way we required, and **updated departmental
-guidance and standards** to follow modern practices. **Improved
-infrastructure and operations processes and tools** for all of MOJ.
 
 ### Technical Architect at Tizaro Supply
 
