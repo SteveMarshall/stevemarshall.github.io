@@ -25,12 +25,12 @@ trainer.
 
 **Responsible for [the Ministry of Justice's strategy for software
 hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
-managing a **budget of ~£90m** of public money, and **responsible for
+managing a **budget of ~£90m** of public money. **Responsible for
 operational reliability of ~500 services underpinning the UK's justice
 system** including courts, prisons, and legal aid.
 
 **Leading ~70 staff in 5 teams across 3 locations**, along with various
-supplier teams, **developing the MOJ's hosting infrastructure
+supplier teams. **Lead development of the MOJ's hosting infrastructure
 platforms** for both modern, cloud-native and legacy services, and
 leading the MOJ's move to public cloud hosting.
 
@@ -50,14 +50,14 @@ standards** for the Ministry of Justice. **Responsible for ~150
 engineers** (technical architects, software developers, and operations
 engineers) **across 4 locations and 5 organisations**.
 
-**Improved hiring procedures**, ultimately increasing quality of
-candidates and diversity of engineering staff. **Improved engineering
-quality** by introducing organisation-wide standards, providing
-embedded, long-term **coaching for under-performing teams** and
-individuals, and recruiting technical leads across the organisation.
+**Improved hiring procedures**, increasing quality of candidates and
+diversity of engineering staff. **Improved engineering quality** by
+introducing organisation-wide standards, providing embedded, long-term
+**coaching for under-performing teams** and individuals, and recruiting
+technical leads across the organisation.
 
-**Successfully recruited my replacement** who has taken on the role and
-made it their own.
+**Recruited my replacement** who has taken on the role and made it
+their own.
 
 ### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -73,11 +73,10 @@ Service](https://www.gov.uk/government/organisations/national-offender-managemen
 technology, **set technical direction for suppliers** to ensure they
 delivered systems the way we required, and **updated departmental
 guidance and standards** to follow modern practices. **Improved
-infrastructure and operations processes and tools** for all of MOJ.
+infrastructure and operations processes and tools** for MOJ.
 
 Led development of [Send money to someone in
-prison](https://www.gov.uk/send-prisoner-money) service from inception
-to [public
+prison](https://www.gov.uk/send-prisoner-money) service through to [public
 beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works),
 and integration of [Visit someone in
 prison](https://www.gov.uk/prison-visits) service with legacy prison
