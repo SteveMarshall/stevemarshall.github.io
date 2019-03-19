@@ -75,8 +75,9 @@ infrastructure and operations processes and tools** for all of MOJ.
 2014</time>--<time datetime="2014-06-30">July 2014</time></span>
 {: .meta}
 
-Led infrastructure implementation for an industrial supply startup
-which ultimately ran out of investment.
+Led infrastructure architecture design and development for a startup
+trying to reinvent the industrial supply market. Unfortunately, the
+startup failed.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
