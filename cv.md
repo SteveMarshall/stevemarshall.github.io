@@ -121,42 +121,20 @@ datetime="2006-10-23">October 2006</time>)
 - Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers) (<time datetime="2002-07-15">July 2002</time>--<time
 datetime="2006-05-26">May 2006</time>)
 
-## Notable personal projects
+## Other interests
 
-### [`mp4-quicktime`](http://github.com/SteveMarshall/mp4-quicktime)
-
-Built a Python library to allow programmatic access to
-[<abbr title="Moving Picture Experts Group">MPEG</abbr> 4
-container](http://en.wikipedia.org/wiki/MPEG-4_Part_14) files. This
-involved reverse-engineering of other libraries and <abbr title="Moving
-Picture Experts Group">MPEG</abbr> standards, low-level manipulation of
-multi-gigabyte files, and complex data structures.
-
-### [Spacelog](http://spacelog.org/) and [/dev/forts](http://devfort.com/)
-
-Worked on Spacelog, a site for exploring the stories of early space
-exploration from the original transcripts. Spacelog is a product of
-[/dev/fort 5](http://devfort.com/cohort/5/), an event where a team of
-designers and developers cut themselves off from the world to work on
-new ideas.
-
-Also took part in /dev/forts [2](http://devfort.com/cohort/2/),
-[4](http://devfort.com/cohort/4/), [7](http://devfort.com/cohort/7/),
-and [9](http://devfort.com/cohort/9/), and led development of [fort
-infrastructure automation tools](https://vimeo.com/108353428).
-
-## Interests
-
-- *Conferences:* A frequent attendee and speaker at various
-  conferences. Notable talks include [“We Can Mirror It for You
-  Wholesale”](https://vimeo.com/108353428) at [WXG
-  2014](https://wxg.co.uk) and [“Don't Touch the
+- I frequently attend and speak at technology conferences. Notable
+  talks include [“Don't Touch the
   Monolith”](https://www.youtube.com/watch?v=47vCm9FA1Lg) at [O'Reilly
   Software Architecture London
-  2016](https://conferences.oreilly.com/software-architecture)
-- *[Photography](http://www.flickr.com/photos/steviebm/sets/72157625921906399/):*
-  Sometime semi-pro photojournalist and music photographer,
-  published on Yahoo! Music and in various independent print magazines.
+  2016](https://conferences.oreilly.com/software-architecture) and [“We
+  Can Mirror It for You Wholesale”](https://vimeo.com/108353428) at
+  [WXG 2014](https://wxg.co.uk)
+- I have taken part in five [/dev/forts](http://devfort.com/):
+  week-long product incubation working holidays. The most notable
+  product we have built is [Spacelog](http://spacelog.org/), a site for
+  exploring the stories of early space exploration from the original
+  transcripts.
 
 ## Education and professional training
 
