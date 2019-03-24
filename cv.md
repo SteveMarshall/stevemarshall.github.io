@@ -23,11 +23,13 @@ trainer.
 <span><time datetime="2017-12-01">December 2018</time>--Present</span>
 {: .meta}
 
-**Responsible for [the Ministry of Justice's strategy for software
-hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
-managing a **budget of ~£90m** of public money. **Responsible for
-operational reliability of ~500 services underpinning the UK's justice
-system** including courts, prisons, and legal aid.
+**Responsible for setting and delivering [the Ministry of Justice's
+strategy for software
+hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-h
+osting-simpler-more-cost-effective-and-more-modern/)**, managing a
+**budget of ~£90m** of public money. **Responsible for operational
+reliability of ~500 services underpinning the UK's justice system**
+including courts, prisons, and legal aid.
 
 **Leading ~70 staff in 5 teams across 3 locations**, along with various
 supplier teams. **Lead development of the MOJ's hosting infrastructure
