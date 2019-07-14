@@ -8,38 +8,37 @@ sitename_only: true
 [GitHub profile](http://github.com/SteveMarshall)
 {: .meta}
 
-Software developer and architect with experience designing, building,
-and shipping large-scale internationalised applications and websites.
-
-Particularly enthused by the web and new technologies, especially how
-the web extends into our everyday lives, and is a
-[BCS](http://www.bcs.org) and [IITT](http://iitt.org.uk/) certified
-trainer.
+Technology leader with deep technical knowledge. Extensive operations
+and delivery experience across a range of sectors, including
+government, travel, and media.
 
 ## Employment history
 
 ### Head of Hosting at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
-<span><time datetime="2017-12-01">December 2018</time>--Present</span>
+<span><time datetime="2017-12-01">December 2017</time>--Present</span>
 {: .meta}
 
-**Responsible for setting and delivering [the Ministry of Justice's
-strategy for software
-hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-h
-osting-simpler-more-cost-effective-and-more-modern/)**, managing a
-**budget of ~£90m** of public money. **Responsible for operational
-reliability of ~500 services underpinning the UK's justice system**
+**Created and lead on [the Ministry of Justice's strategy for software
+hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
+which we project will deliver savings up to £50m/year in the next 5
+years.
+
+Managing a **budget of ~£30m** of public money, ensuring value for
+money while delivering our strategy. **Responsible for operational
+reliability of ~500 services underpinning the UK's justice system**,
 including courts, prisons, and legal aid.
 
-**Leading ~70 staff in 5 teams across 3 locations**, along with various
-supplier teams. **Lead development of the MOJ's hosting infrastructure
-platforms** for both modern, cloud-native and legacy services, and
-leading the MOJ's move to public cloud hosting.
+**Manage ~70 staff in 5 teams across 3 locations, and ~30
+suppliers** to ensure they offer good value for money and follow
+current government standards and guidance. **Lead development of the
+MOJ's hosting infrastructure platforms** for both modern, cloud-native
+and legacy services, and **leading MOJ's move to public cloud hosting**.
 
-**Ensuring delivery of of high quality infrastructure** services by
-coaching and mentoring product teams. **Managing ~30 suppliers' work to
-ensure good value for money** and follow current government standards
-and guidance.
+**Ensure delivery of high quality infrastructure** services by
+coaching and mentoring product teams, and **driving up the quality of
+delivery, and driving down time to market,** across MOJ by
+providing **high quality self-service platforms** and automation tools.
 
 ### Head of Technical Architecture and Software Development at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -47,7 +46,7 @@ and guidance.
 2017</time>--<time datetime="2018-04-25">April 2018</time></span>
 {: .meta}
 
-**Leading on engineering staff management, recruitment, culture, and
+**Lead on engineering staff management, recruitment, culture, and
 standards** for the Ministry of Justice. **Responsible for ~150
 engineers** (technical architects, software developers, and operations
 engineers) **across 4 locations and 5 organisations**.
@@ -91,8 +90,7 @@ service backend.
 {: .meta}
 
 Led infrastructure architecture design and development for a startup
-trying to reinvent the industrial supply market. Unfortunately, the
-startup failed.
+reinventing the industrial supply market.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
@@ -101,16 +99,10 @@ startup failed.
 {: .meta}
 
 Responsible for **setting and maintaining standards** for all APIs and
-user interfaces across Expedia Affiliate Network. **Understood clients'
-needs** and balanced these against technical constraints, allowed
-Expedia Affiliate Network to **support a $2bn/year partner network**.
+user interfaces across Expedia Affiliate Networkand helped **support a
+$2bn/year partner network**.
 
-Also acted as *Chief Developer Evangelist* (July 2012 onwards),
-responsible for **community outreach**. Organised events with diverse
-speaker lineups and attendees. **Represented Expedia at various events**
-and **mentored colleagues** in public speaking.
-
-### Prior roles
+### Previous roles
 
 - Senior software developer at [Expedia Affiliate Network](http://expediaaffiliate.com/) (<time datetime="2011-10-17">October
 2011</time>--<time datetime="2012-12-07">December 2012</time>)
@@ -141,12 +133,4 @@ datetime="2006-05-26">May 2006</time>)
 ## Education and professional training
 
 - Institute Certified Training Professional from [<abbr title="British Computer Society">BCS</abbr>](http://bcs.org/) and [<abbr title="Institute for IT Trainers">IITT</abbr>](http://iitt.org.uk)
-
-  <span><time datetime="2008-05-19">May 2008</time></span>
-  {: .meta}
-
 - BSc Computer Science & Engineering with First Class Honours from [University of Surrey](http://surrey.ac.uk/)
-
-  <span><time datetime="2000-09-04">September
-  2000</time>--<time datetime="2004-06-18">June 2004</time></span>
-  {: .meta}

@@ -1,4 +1,4 @@
-I'm **Steve Marshall**, a software developer in London.
+I'm **Steve Marshall**, a technology leader and software developer in London.
 
 You can read [some articles I wrote](/journal/) or [more about
 me](/about/) (or check out my [CV](/cv/)), [follow
