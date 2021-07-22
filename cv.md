@@ -10,7 +10,8 @@ sitename_only: true
 
 Technology leader with deep technical knowledge. Extensive development,
 operations and delivery experience across a range of sectors, including
-government, travel, and media.
+government, travel, and media. Uses code and design thinking to improve
+systems and the teams who build them.
 
 ## Employment history
 
@@ -19,25 +20,20 @@ government, travel, and media.
 <span><time datetime="2017-12-01">December 2017</time>--Present</span>
 {: .meta}
 
-**Created and leading on [the Ministry of Justice's strategy for software
-hosting](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/)**,
-which will allow us to make the entire Justice industry cloud-native
-and save up to £50m/year in the next 5 years.
-
-**Manage ~70 staff in 5 engineering teams across 3 locations**.
-**Leading development of the MOJ's hosting infrastructure platforms**
-for modern, cloud-native services in Kubernetes on AWS and Azure, and
-**leading MOJ's move to public cloud hosting** for legacy services.
-
-**Ensure delivery of high quality infrastructure** services by coaching
-and mentoring product teams in site reliability engineering and DevOps
-practices. Increase speed and quality of delivery across MOJ by
-providing **high quality platforms** and automation tools.
-
-Manage a **budget of ~£30m/year** and contracts with ~30 suppliers,
-ensuring value for money while delivering our strategy. **Responsible
-for operational reliability of ~500 services underpinning the UK's
-justice system**, including courts, prisons, and legal aid.
+- **Leading a team of 70 staff across 3 locations** to develop and
+  operate a world-class, cloud hosting platform on AWS and Azure.
+- **I set the [Ministry of Justice's hosting
+  strategy](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/).**
+  As part of this, we are moving around 500 user-facing services to
+  cloud-native hosting. So far **this has saved £10m** over three years,
+  and because of being able to close contracts as they end, is predicted to
+  save a further £30m/year over the next 5 years.
+- Managing a **budget of ~£25m/year** and contracts with ~30 suppliers,
+  ensuring value for money while delivering our strategy.
+- **Ensuring delivery of high quality infrastructure services**
+  underpinning those 500 user-facing services, including managing,
+  coaching, and mentoring product teams in site reliability engineering,
+  automation, and DevOps practices.
 
 ### Head of Engineering at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -50,8 +46,8 @@ across 4 locations**, and was responsible for technical standards,
 management, recruitment, and culture.
 
 **Improved engineering quality** by introducing organisation-wide
-standards, providing embedded, long-term **coaching for
-under-performing teams** and individuals, and recruiting technical
+standards through automation, providing embedded, long-term **coaching
+for under-performing teams** and individuals, and recruiting technical
 leads across the organisation. **Improved hiring procedures**,
 increasing quality of candidates and diversity of engineering staff.
 
@@ -65,17 +61,15 @@ Responsible for **technical design and development of digital
 services** for [the UK's National Offender Management
 Service](https://www.gov.uk/government/organisations/national-offender-management-service).
 
-Led development of [Send money to someone in
-prison](https://www.gov.uk/send-prisoner-money) service (Python/Django)
-through to [public beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works),
-and integration of [Visit someone in prison](https://www.gov.uk/prison-visits)
-service (Ruby on Rails) with legacy Oracle prison service backend.
-
-**Influenced senior stakeholders** to support delivery of modern
-technology, **set technical direction for suppliers** to ensure they
-delivered systems the way we required, and **updated departmental
-guidance and standards** to follow modern practices. **Improved
-infrastructure and operations processes and tools** for MOJ.
+Led development of [a service to allow prisoners to receive
+money](https://www.gov.uk/send-prisoner-money) from friends and family
+electronically (Python/Django) from discovery through to [public
+beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works),
+and integration of [a service to allow prisoners' friends and family to
+book visits online](https://www.gov.uk/prison-visits) (Ruby on Rails)
+with the legacy prison service backend (Oracle). These included
+developing prototypes, technical spikes, interaction/experience design
+reviews to ensure the service best met users' needs.
 
 ### Technical Architect at Tizaro Supply
 
@@ -84,7 +78,7 @@ infrastructure and operations processes and tools** for MOJ.
 {: .meta}
 
 Led infrastructure architecture design and development (Puppet, Python,
-PHP) for a startup reinventing the industrial supply market.
+PHP) for a startup targeting the industrial supply market.
 
 ### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
@@ -92,9 +86,12 @@ PHP) for a startup reinventing the industrial supply market.
 2012</time>--<time datetime="2014-03-14">March 2014</time></span>
 {: .meta}
 
-Responsible for **setting and maintaining standards** for all APIs
-(REST, SOAP, RPC) and user interfaces across Expedia Affiliate Network
-and helped **support a $2bn/year partner network**.
+Led a team **applying user-centred design techniques to APIs** (REST, SOAP,
+RPC) and user interfaces across Expedia Affiliate Network to speed
+on-boarding of new partners to support the $2bn/year partner
+network.
+
+<div markdown="1" style="page-break-inside: avoid;">
 
 ### Previous roles
 
@@ -109,21 +106,28 @@ datetime="2006-10-23">October 2006</time>): C#, .NET Framework
 - Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers) (<time datetime="2002-07-15">July 2002</time>--<time
 datetime="2006-05-26">May 2006</time>): C#, .NET Framework
 
+</div>
+
 ## Other interests
 
-- I frequently attend and speak at technology conferences. Notable
-  talks include [“Don't Touch the
-  Monolith”](https://www.youtube.com/watch?v=47vCm9FA1Lg) at [O'Reilly
+- I am currently **building prototypes of two iOS apps** (using Swift,
+  SwiftUI, and UIKit) because I have long been interested in iOS app
+  development, but have only recently come up with product ideas that
+  piqued my interest. The first uses OCR and machine learning to allow
+  users to collaboratively curate a cloud-synced index of content.
+  The second allows users to annotate and otherwise prepare collections
+  of images to train CoreML object detection models with CreateML.
+- I attend and speak at technology conferences. Notable
+  talks include ["Don't Touch the
+  Monolith"](https://www.youtube.com/watch?v=47vCm9FA1Lg) at [O'Reilly
   Software Architecture London
-  2016](https://conferences.oreilly.com/software-architecture) and [“We
-  Can Mirror It for You Wholesale”](https://vimeo.com/108353428) at
+  2016](https://conferences.oreilly.com/software-architecture) and ["We
+  Can Mirror It for You Wholesale"](https://vimeo.com/108353428) at
   [WXG 2014](https://wxg.co.uk)
 - I have taken part in five [/dev/forts](http://devfort.com/):
-  week-long product incubation working holidays. The most notable
-  product we have built is [Spacelog](http://spacelog.org/), a site for
-  exploring the stories of early space exploration from the original
-  transcripts. Across the projects, I have done devops (Chef), back- and
-  front-end development (Python/Django, C).
+  the most successful product we have built is
+  [Spacelog](http://spacelog.org/), a site for exploring the stories
+  of early space exploration from the original transcripts.
 
 ## Education and professional training
 
