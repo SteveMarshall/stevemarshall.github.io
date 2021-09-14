@@ -9,7 +9,7 @@ sitename_only: true
 {: .meta}
 
 Technology leader with deep technical knowledge. Extensive product
-development, operations and delivery experience across a range of
+development and delivery experience across a range of
 sectors, including government, travel, and media. Uses code and design
 thinking to improve products and the teams who build them.
 
@@ -23,8 +23,7 @@ thinking to improve products and the teams who build them.
 - **Leading 5 product teams comprising 70 staff across 3 locations** to
   deliver two hosting platforms: a modern Kubernetes-based hosting
   platform on AWS, and a cloud hosting platform for legacy services in
-  AWS and Azure, including setting product, technical, and operational
-  strategy.
+  AWS and Azure, including setting product and technical strategy.
 - **I set the [Ministry of Justice's hosting
   strategy](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/).**
   As part of this, we are moving around 500 user-facing services to
@@ -44,7 +43,7 @@ thinking to improve products and the teams who build them.
 2017</time>--<time datetime="2018-04-25">April 2018</time></span>
 {: .meta}
 
-**Led ~150 Python, Java, front-end, Ruby, and operations engineers
+**Led ~150 Python, Java, front-end, Ruby, and DevOps engineers
 across 4 locations**, and was responsible for technical standards,
 management, recruitment, and culture.
 
