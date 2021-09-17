@@ -40,9 +40,6 @@ p + .meta {
 li p:first-child {
   margin-top:               0;
 }
-blockquote p + footer {
-  margin-top:               -24px;
-}
 blockquote footer cite:before {
   /* Blockquote cites need a leading em-dash */
   content:                  '\2014';
