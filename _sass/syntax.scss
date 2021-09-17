@@ -1,3 +1,20 @@
+.rouge-table {
+  position: relative;
+  overflow: visible;
+}
+
+.rouge-gutter {
+  color: #bbb;
+  font-size: 12px;
+  padding-top: 2px;
+  position: absolute;
+  text-align: right;
+  left: -12px;
+}
+.rouge-gutter .lineno {
+  float: left;
+  margin-left: -100%;
+}
 /* Cribbed from... somewhere */
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */

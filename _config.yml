@@ -12,6 +12,9 @@ lsi: false
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 plugins:
 - jekyll-default-layout
