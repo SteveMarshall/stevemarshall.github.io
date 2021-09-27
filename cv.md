@@ -120,17 +120,26 @@ datetime="2006-05-26">May 2006</time>): C#, .NET Framework
   users to collaboratively curate a cloud-synced index of content.
   The second allows users to annotate and otherwise prepare collections
   of images to train CoreML object detection models with CreateML.
-- I attend and speak at technology conferences. Notable
+- I **speak at technology conferences**. Notable
   talks include ["Don't Touch the
   Monolith"](https://www.youtube.com/watch?v=47vCm9FA1Lg) at [O'Reilly
   Software Architecture London
   2016](https://conferences.oreilly.com/software-architecture) and ["We
   Can Mirror It for You Wholesale"](https://vimeo.com/108353428) at
   [WXG 2014](https://wxg.co.uk)
-- I have taken part in five [/dev/forts](http://devfort.com/):
-  the most successful product we have built is
-  [Spacelog](http://spacelog.org/), a site for exploring the stories
-  of early space exploration from the original transcripts.
+- I am **one of the original developers of [Spacelog](http://spacelog.org/)**,
+  a site for exploring the stories of early space exploration from the
+  original transcripts. I also led **development
+  of tools to ensure offline access to multiple terabytes of tools and
+  data** to ensure that teams could be productive
+  with no access to the Internet. Spacelog was built at a
+  [`/dev/fort`](http://devfort.com/): a **week-long product development
+  retreat in an isolated, iconic location**. I also attended four other
+  forts, resulting in tools to help cooks, a
+  [habit-forming service](https://github.com/devfort/behabitual-static),
+  an [offline Twitter clone](https://github.com/devfort/bugle) and
+  [terminal client](https://github.com/devfort/conch), and
+  [voting tools](https://github.com/devfort/turnout-election-schemes).
 
 ## Education and professional training
 
