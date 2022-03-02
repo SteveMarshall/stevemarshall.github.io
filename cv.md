@@ -20,10 +20,11 @@ thinking to improve products and the teams who build them.
 <span><time datetime="2017-12-01">December 2017</time>--Present</span>
 {: .meta}
 
-- **Leading 5 product teams comprising 70 staff across 3 locations** to
-  deliver two hosting platforms: a modern Kubernetes-based hosting
-  platform on AWS, and a cloud hosting platform for legacy services in
-  AWS and Azure, including setting product and technical strategy.
+- **Created the Hosting group and scaled from nothing to 5 product
+  teams comprising 70 staff across 3 locations** to deliver two hosting
+  platforms: a modern Kubernetes-based hosting platform on AWS, and a
+  cloud hosting platform for legacy services in AWS and Azure,
+  including setting product and technical strategy.
 - **I set the [Ministry of Justice's hosting
   strategy](https://mojdigital.blog.gov.uk/2018/10/15/how-were-making-our-hosting-simpler-more-cost-effective-and-more-modern/).**
   As part of this, we are moving around 500 user-facing services to
