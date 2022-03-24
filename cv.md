@@ -31,12 +31,17 @@ thinking to improve products and the teams who build them.
   cloud-native hosting. So far **this has saved £10m** over three years,
   and because of being able to close contracts as they end, is predicted to
   save a further £30m/year over the next 5 years.
+- **Ensuring delivery of high quality infrastructure products and services**
+  underpinning those 500 user-facing services, including mentoring
+  teams in site reliability engineering, automation, and DevOps
+  practices.
+- **Managing, coaching, and mentoring lead architects and engineers** to
+  ensure high quality engineering practices are embedded across MOJ.
+- **Engaging with stakeholders** to ensure their needs are met, while
+  also working with them to improve their teams' engineering practices
+  and quality.
 - Managing a **budget of ~£25m/year** and contracts with ~30 suppliers,
   ensuring value for money while delivering our strategy.
-- **Ensuring delivery of high quality infrastructure products and services**
-  underpinning those 500 user-facing services, including managing,
-  coaching, and mentoring product teams in site reliability engineering,
-  automation, and DevOps practices.
 
 ### Head of Engineering at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
@@ -54,7 +59,7 @@ for under-performing teams** and individuals, and recruiting technical
 leads across the organisation. **Improved hiring procedures**,
 increasing quality of candidates and diversity of engineering staff.
 
-### Technical Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
+### Lead Architect at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 
 <span><time datetime="2014-09-29">September
 2014</time>--<time datetime="2016-12-31">December 2016</time></span>
@@ -71,9 +76,10 @@ beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works)
 and integration of [a service to allow prisoners' friends and family to
 book visits online](https://www.gov.uk/prison-visits) (Ruby on Rails)
 with the legacy prison service backend (Oracle). These included
-developing prototypes, technical spikes, and design reviews to ensure
-the service best met users' needs, as well as supporting the product
-manager in defining the products.
+mentoring senior engineers, leading prototype development and technical
+spikes, and supporting design reviews to ensure the service best met
+users' needs, as well as supporting the product manager in defining the
+products.
 
 ### Technical Architect at Tizaro Supply
 
@@ -84,16 +90,17 @@ manager in defining the products.
 Led infrastructure architecture design and development (Puppet, Python,
 PHP) for a startup targeting the industrial supply market.
 
-### Director of Design at [Expedia Affiliate Network](http://expediaaffiliate.com/)
+### Director of Developer Experience at [Expedia Affiliate Network](http://expediaaffiliate.com/)
 
 <span><time datetime="2012-12-07">December
 2012</time>--<time datetime="2014-03-14">March 2014</time></span>
 {: .meta}
 
-Led a team **applying user-centred design techniques to APIs** (REST, SOAP,
-RPC) and user interfaces across Expedia Affiliate Network to speed
-on-boarding of new partners to support the $2bn/year partner
-network.
+Led a team **applying user-centred design techniques to APIs** (REST,
+SOAP, RPC) across Expedia Affiliate Network to speed on-boarding of new
+partners to support the $2bn/year partner network. Coached internal and
+external developers and designers on API design, web standards, and
+engineering best practices.
 
 <div markdown="1" style="page-break-inside: avoid;">
 
@@ -102,13 +109,13 @@ network.
 - Senior software developer at [Expedia Affiliate Network](http://expediaaffiliate.com/) (<time datetime="2011-10-17">October
 2011</time>--<time datetime="2012-12-07">December 2012</time>): Ruby, Chef, Java
 - Senior web developer at [Yahoo!](http://yahoo.com/) (<time datetime="2010-01-01">January
-2010</time>--<time datetime="2011-09-21">September 2011</time>): PHP, Perl, Front-end
+2010</time>--<time datetime="2011-09-21">September 2011</time>): PHP, Perl, HTML, CSS, JavaScript
 - Web developer at [Yahoo!](http://yahoo.com/) (<time datetime="2006-10-30">October
-2006</time>--<time datetime="2009-12-31">December 2009</time>): PHP, Perl, Front-end
+2006</time>--<time datetime="2009-12-31">December 2009</time>): PHP, Perl, HTML, CSS, JavaScript
 - Software engineer at [Systematic Software Engineering](http://www.systematic.com/) (<time datetime="2006-06-05">June 2006</time>--<time
-datetime="2006-10-23">October 2006</time>): C#, .NET Framework
+datetime="2006-10-23">October 2006</time>): C#, .NET Framework, HTML, CSS, JavaScript
 - Web developer at [Fujitsu Siemens Computers](http://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers) (<time datetime="2002-07-15">July 2002</time>--<time
-datetime="2006-05-26">May 2006</time>): C#, .NET Framework
+datetime="2006-05-26">May 2006</time>): C#, .NET Framework, HTML, CSS, JavaScript
 
 </div>
 
