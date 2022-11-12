@@ -6,7 +6,9 @@ government services, travel APIs, sites for burgeoning rock bands,
 award-winning intranets, and a host of things between.
 
 When he’s not working or complaining [on
-Twitter](http://twitter.com/SteveMarshall), he can be found listening
-to music, playing videogames, taking more photos than he has time to
+Twitter](http://twitter.com/SteveMarshall) or [on
+Mastodon](https://mastodon.social/@stevemarshall), he can be found
+listening to music, playing videogames, taking more photos than he has
+time to
 process, or going very fast round corners in his car. One day, he might
 blog on this site again. One day.
