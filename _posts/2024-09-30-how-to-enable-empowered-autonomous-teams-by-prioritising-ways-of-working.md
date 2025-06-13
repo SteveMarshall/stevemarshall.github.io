@@ -74,7 +74,7 @@ others who hadn’t been in the meeting to understand what our headlines
 meant. This document was then shared with everyone in the team so that
 we all understood what sorts of work we would prioritise.
 
-You can [read the complete prioritisation document](https://docs.google.com/document/d/1kHaghp-68ooK-NwxozYkScGZThYJVrdOGWf4_K8Wo6s/edit).
+You can [read the complete prioritisation document](/files/posts/enable-empowered-teams-prioritisation/cloud-platform-prioritisation-principles.pdf).
 It comprises three sections:
 
 1. Our priorities: An ordered list of the five types of things we were
